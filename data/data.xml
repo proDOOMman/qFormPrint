@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <document file="Original1.png" name="Лицевая сторона">
+        <group trans="Сведения о лице,\n подлежащем постановке на учет\n по месту пребывания">
+            <field name="foreigner_surname" trans="Фамилия" type="0">
+                <char x="295" y="537" h="59" w="47" name="0" trans=""/>
+                <char x="354" y="537" h="59" w="47" name="1" trans=""/>
+                <char x="413" y="537" h="59" w="48" name="3" trans=""/>
+                <char x="472" y="537" h="59" w="48" name="4" trans=""/>
+                <char x="531" y="537" h="59" w="48" name="5" trans=""/>
+                <char x="590" y="537" h="59" w="48" name="6" trans=""/>
+                <char x="649" y="537" h="59" w="48" name="7" trans=""/>
+                <char x="709" y="537" h="59" w="47" name="8" trans=""/>
+                <char x="768" y="537" h="59" w="47" name="9" trans=""/>
+                <char x="827" y="537" h="59" w="47" name="10" trans=""/>
+                <char x="886" y="537" h="59" w="47" name="11" trans=""/>
+                <char x="945" y="537" h="59" w="47" name="12" trans=""/>
+                <char x="1004" y="537" h="59" w="47" name="13" trans=""/>
+                <char x="1063" y="537" h="59" w="47" name="14" trans=""/>
+                <char x="1122" y="537" h="59" w="47" name="15" trans=""/>
+                <char x="1181" y="537" h="59" w="47" name="16" trans=""/>
+                <char x="1240" y="537" h="59" w="47" name="17" trans=""/>
+                <char x="1299" y="537" h="59" w="47" name="18" trans=""/>
+                <char x="1358" y="537" h="59" w="47" name="19" trans=""/>
+                <char x="1417" y="537" h="59" w="47" name="20" trans=""/>
+                <char x="1476" y="537" h="59" w="47" name="21" trans=""/>
+                <char x="1535" y="537" h="59" w="47" name="22" trans=""/>
+                <char x="1594" y="537" h="59" w="48" name="23" trans=""/>
+                <char x="1653" y="537" h="59" w="48" name="24" trans=""/>
+                <char x="1712" y="537" h="59" w="48" name="25" trans=""/>
+                <char x="1771" y="537" h="59" w="48" name="26" trans=""/>
+                <char x="1830" y="537" h="59" w="48" name="27" trans=""/>
+                <char x="1890" y="537" h="59" w="47" name="28" trans=""/>
+                <char x="1949" y="537" h="59" w="47" name="29" trans=""/>
+                <char x="2008" y="537" h="59" w="47" name="30" trans=""/>
+                <char x="2067" y="537" h="59" w="47" name="31" trans=""/>
+                <char x="2126" y="537" h="59" w="47" name="32" trans=""/>
+                <char x="2185" y="537" h="59" w="47" name="33" trans=""/>
+                <char x="2244" y="537" h="59" w="47" name="34" trans=""/>
+                <char x="2303" y="537" h="59" w="47" name="35" trans=""/>
+            </field>
+            <field name="foreigner_name" trans="Имя, отчество" type="0">
+                <char x="295" y="620" h="59" w="47" name="0" trans=""/>
+                <char x="354" y="620" h="59" w="47" name="1" trans=""/>
+                <char x="413" y="620" h="59" w="48" name="2" trans=""/>
+                <char x="472" y="620" h="59" w="48" name="3" trans=""/>
+                <char x="531" y="620" h="59" w="48" name="4" trans=""/>
+                <char x="590" y="620" h="59" w="48" name="5" trans=""/>
+                <char x="649" y="620" h="59" w="48" name="6" trans=""/>
+                <char x="709" y="620" h="59" w="47" name="7" trans=""/>
+                <char x="768" y="620" h="59" w="47" name="8" trans=""/>
+                <char x="827" y="620" h="59" w="47" name="9" trans=""/>
+                <char x="886" y="620" h="59" w="47" name="10" trans=""/>
+                <char x="945" y="620" h="59" w="47" name="11" trans=""/>
+                <char x="1004" y="620" h="59" w="47" name="12" trans=""/>
+                <char x="1063" y="620" h="59" w="47" name="13" trans=""/>
+                <char x="1122" y="620" h="59" w="47" name="14" trans=""/>
+                <char x="1181" y="620" h="59" w="47" name="15" trans=""/>
+                <char x="1240" y="620" h="59" w="47" name="16" trans=""/>
+                <char x="1299" y="620" h="59" w="47" name="17" trans=""/>
+                <char x="1358" y="620" h="59" w="47" name="18" trans=""/>
+                <char x="1417" y="620" h="59" w="47" name="19" trans=""/>
+                <char x="1476" y="620" h="59" w="47" name="20" trans=""/>
+                <char x="1535" y="620" h="59" w="47" name="21" trans=""/>
+                <char x="1594" y="620" h="59" w="48" name="22" trans=""/>
+                <char x="1653" y="620" h="59" w="48" name="23" trans=""/>
+                <char x="1712" y="620" h="59" w="48" name="24" trans=""/>
+                <char x="1771" y="620" h="59" w="48" name="25" trans=""/>
+                <char x="1830" y="620" h="59" w="48" name="26" trans=""/>
+                <char x="1890" y="620" h="59" w="47" name="27" trans=""/>
+                <char x="1949" y="620" h="59" w="47" name="28" trans=""/>
+                <char x="2008" y="620" h="59" w="47" name="29" trans=""/>
+                <char x="2067" y="620" h="59" w="47" name="30" trans=""/>
+                <char x="2126" y="620" h="59" w="47" name="31" trans=""/>
+                <char x="2185" y="620" h="59" w="47" name="32" trans=""/>
+                <char x="2244" y="620" h="59" w="47" name="33" trans=""/>
+                <char x="2303" y="620" h="59" w="47" name="34" trans=""/>
+            </field>
+            <field name="foreigner_citizenship" trans="Гражданство, подданство" type="0">
+                <char x="354" y="703" h="59" w="47" name="0" trans=""/>
+                <char x="413" y="703" h="59" w="48" name="1" trans=""/>
+                <char x="472" y="703" h="59" w="48" name="2" trans=""/>
+                <char x="531" y="703" h="59" w="48" name="3" trans=""/>
+                <char x="590" y="703" h="59" w="48" name="4" trans=""/>
+                <char x="649" y="703" h="59" w="48" name="5" trans=""/>
+                <char x="709" y="703" h="59" w="47" name="6" trans=""/>
+                <char x="768" y="703" h="59" w="47" name="7" trans=""/>
+                <char x="827" y="703" h="59" w="47" name="8" trans=""/>
+                <char x="886" y="703" h="59" w="47" name="9" trans=""/>
+                <char x="945" y="703" h="59" w="47" name="10" trans=""/>
+                <char x="1004" y="703" h="59" w="47" name="11" trans=""/>
+                <char x="1063" y="703" h="59" w="47" name="12" trans=""/>
+                <char x="1122" y="703" h="59" w="47" name="13" trans=""/>
+                <char x="1181" y="703" h="59" w="47" name="14" trans=""/>
+                <char x="1240" y="703" h="59" w="47" name="15" trans=""/>
+                <char x="1299" y="703" h="59" w="47" name="16" trans=""/>
+                <char x="1358" y="703" h="59" w="47" name="17" trans=""/>
+                <char x="1417" y="703" h="59" w="47" name="18" trans=""/>
+                <char x="1476" y="703" h="59" w="47" name="19" trans=""/>
+                <char x="1535" y="703" h="59" w="47" name="20" trans=""/>
+                <char x="1594" y="703" h="59" w="48" name="21" trans=""/>
+                <char x="1653" y="703" h="59" w="48" name="22" trans=""/>
+                <char x="1712" y="703" h="59" w="48" name="23" trans=""/>
+                <char x="1771" y="703" h="59" w="48" name="24" trans=""/>
+                <char x="1830" y="703" h="59" w="48" name="25" trans=""/>
+                <char x="1890" y="703" h="59" w="47" name="26" trans=""/>
+                <char x="1949" y="703" h="59" w="47" name="27" trans=""/>
+                <char x="2008" y="703" h="59" w="47" name="28" trans=""/>
+                <char x="2067" y="703" h="59" w="47" name="29" trans=""/>
+                <char x="2126" y="703" h="59" w="47" name="30" trans=""/>
+                <char x="2185" y="703" h="59" w="47" name="31" trans=""/>
+                <char x="2244" y="703" h="59" w="47" name="32" trans=""/>
+                <char x="2303" y="703" h="59" w="47" name="33" trans=""/>
+            </field>
+            <field name="foreigner_birth_date" trans="Дата рождения" type="1">
+                <char x="413" y="785" h="59" w="48" name="d" trans=""/>
+                <char x="472" y="785" h="59" w="48" name="d" trans=""/>
+                <char x="649" y="785" h="59" w="48" name="m" trans=""/>
+                <char x="709" y="785" h="59" w="47" name="m" trans=""/>
+                <char x="827" y="785" h="59" w="47" name="y" trans=""/>
+                <char x="886" y="785" h="59" w="47" name="y" trans=""/>
+                <char x="945" y="785" h="59" w="47" name="y" trans=""/>
+                <char x="1004" y="785" h="59" w="47" name="y" trans=""/>
+            </field>
+            <field name="foreigner_sex" trans="Пол" type="2">
+                <char x="1476" y="785" h="59" w="47" name="m" trans="мужской"/>
+                <char x="1771" y="785" h="59" w="48" name="w" trans="женский"/>
+            </field>
+            <group trans="Место рождения">
+                <field name="foreigner_birth_place_country" trans="Государство" type="0">
+                    <char x="413" y="868" h="59" w="48" name="0" trans=""/>
+                    <char x="472" y="868" h="59" w="48" name="1" trans=""/>
+                    <char x="531" y="868" h="59" w="48" name="2" trans=""/>
+                    <char x="590" y="868" h="59" w="48" name="3" trans=""/>
+                    <char x="649" y="868" h="59" w="48" name="4" trans=""/>
+                    <char x="709" y="868" h="59" w="47" name="5" trans=""/>
+                    <char x="768" y="868" h="59" w="47" name="6" trans=""/>
+                    <char x="827" y="868" h="59" w="47" name="7" trans=""/>
+                    <char x="886" y="868" h="59" w="47" name="8" trans=""/>
+                    <char x="945" y="868" h="59" w="47" name="9" trans=""/>
+                    <char x="1004" y="868" h="59" w="47" name="10" trans=""/>
+                    <char x="1063" y="868" h="59" w="47" name="11" trans=""/>
+                    <char x="1122" y="868" h="59" w="47" name="12" trans=""/>
+                    <char x="1181" y="868" h="59" w="47" name="13" trans=""/>
+                    <char x="1240" y="868" h="59" w="47" name="14" trans=""/>
+                    <char x="1299" y="868" h="59" w="47" name="15" trans=""/>
+                    <char x="1358" y="868" h="59" w="47" name="16" trans=""/>
+                    <char x="1417" y="868" h="59" w="47" name="17" trans=""/>
+                    <char x="1476" y="868" h="59" w="47" name="18" trans=""/>
+                    <char x="1535" y="868" h="59" w="47" name="19" trans=""/>
+                    <char x="1594" y="868" h="59" w="48" name="20" trans=""/>
+                    <char x="1653" y="868" h="59" w="48" name="21" trans=""/>
+                    <char x="1712" y="868" h="59" w="48" name="22" trans=""/>
+                    <char x="1771" y="868" h="59" w="48" name="23" trans=""/>
+                    <char x="1830" y="868" h="59" w="48" name="24" trans=""/>
+                    <char x="1890" y="868" h="59" w="47" name="25" trans=""/>
+                    <char x="1949" y="868" h="59" w="47" name="26" trans=""/>
+                    <char x="2008" y="868" h="59" w="47" name="27" trans=""/>
+                    <char x="2067" y="868" h="59" w="47" name="28" trans=""/>
+                    <char x="2126" y="868" h="59" w="47" name="29" trans=""/>
+                    <char x="2185" y="868" h="59" w="47" name="30" trans=""/>
+                    <char x="2244" y="868" h="59" w="47" name="31" trans=""/>
+                    <char x="2303" y="868" h="59" w="47" name="32" trans=""/>
+                </field>
+                <field name="foreigner_birth_place_city" trans="Город или другой населенный пункт" type="0">
+                    <char x="413" y="951" h="59" w="48" name="0" trans=""/>
+                    <char x="472" y="951" h="59" w="48" name="1" trans=""/>
+                    <char x="531" y="951" h="59" w="48" name="2" trans=""/>
+                    <char x="590" y="951" h="59" w="48" name="3" trans=""/>
+                    <char x="649" y="951" h="59" w="48" name="4" trans=""/>
+                    <char x="709" y="951" h="59" w="47" name="5" trans=""/>
+                    <char x="768" y="951" h="59" w="47" name="6" trans=""/>
+                    <char x="827" y="951" h="59" w="47" name="7" trans=""/>
+                    <char x="886" y="951" h="59" w="47" name="8" trans=""/>
+                    <char x="945" y="951" h="59" w="47" name="9" trans=""/>
+                    <char x="1004" y="951" h="59" w="47" name="10" trans=""/>
+                    <char x="1063" y="951" h="59" w="47" name="11" trans=""/>
+                    <char x="1122" y="951" h="59" w="47" name="12" trans=""/>
+                    <char x="1181" y="951" h="59" w="47" name="13" trans=""/>
+                    <char x="1240" y="951" h="59" w="47" name="14" trans=""/>
+                    <char x="1299" y="951" h="59" w="47" name="15" trans=""/>
+                    <char x="1358" y="951" h="59" w="47" name="16" trans=""/>
+                    <char x="1417" y="951" h="59" w="47" name="17" trans=""/>
+                    <char x="1476" y="951" h="59" w="47" name="18" trans=""/>
+                    <char x="1535" y="951" h="59" w="47" name="19" trans=""/>
+                    <char x="1594" y="951" h="59" w="48" name="20" trans=""/>
+                    <char x="1653" y="951" h="59" w="48" name="21" trans=""/>
+                    <char x="1712" y="951" h="59" w="48" name="22" trans=""/>
+                    <char x="1771" y="951" h="59" w="48" name="23" trans=""/>
+                    <char x="1830" y="951" h="59" w="48" name="24" trans=""/>
+                    <char x="1890" y="951" h="59" w="47" name="25" trans=""/>
+                    <char x="1949" y="951" h="59" w="47" name="26" trans=""/>
+                    <char x="2008" y="951" h="59" w="47" name="27" trans=""/>
+                    <char x="2067" y="951" h="59" w="47" name="28" trans=""/>
+                    <char x="2126" y="951" h="59" w="47" name="29" trans=""/>
+                    <char x="2185" y="951" h="59" w="47" name="30" trans=""/>
+                    <char x="2244" y="951" h="59" w="47" name="31" trans=""/>
+                    <char x="2303" y="951" h="59" w="47" name="32" trans=""/>
+                </field>
+            </group>
+            <group trans="Документ, удостоверяющий личность">
+                <field name="foreigner_document_type" trans="вид" type="0">
+                    <char x="768" y="1033" h="59" w="47" name="0" trans=""/>
+                    <char x="827" y="1033" h="59" w="47" name="1" trans=""/>
+                    <char x="886" y="1033" h="59" w="47" name="2" trans=""/>
+                    <char x="945" y="1033" h="59" w="47" name="3" trans=""/>
+                    <char x="1004" y="1033" h="59" w="47" name="4" trans=""/>
+                    <char x="1063" y="1033" h="59" w="47" name="5" trans=""/>
+                    <char x="1122" y="1033" h="59" w="47" name="6" trans=""/>
+                    <char x="1181" y="1033" h="59" w="47" name="7" trans=""/>
+                    <char x="1240" y="1033" h="59" w="47" name="8" trans=""/>
+                    <char x="1299" y="1033" h="59" w="47" name="9" trans=""/>
+                    <char x="1358" y="1033" h="59" w="47" name="10" trans=""/>
+                </field>
+                <field name="foreigner_document_series" trans="Серия" type="0">
+                    <char x="1535" y="1033" h="59" w="47" name="0" trans=""/>
+                    <char x="1594" y="1033" h="59" w="48" name="1" trans=""/>
+                    <char x="1653" y="1033" h="59" w="48" name="2" trans=""/>
+                    <char x="1712" y="1033" h="59" w="48" name="3" trans=""/>
+                </field>
+                <field name="foreigner_document_number" trans="№" type="0">
+                    <char x="1830" y="1033" h="59" w="48" name="0" trans=""/>
+                    <char x="1890" y="1033" h="59" w="47" name="1" trans=""/>
+                    <char x="1949" y="1033" h="59" w="47" name="2" trans=""/>
+                    <char x="2008" y="1033" h="59" w="47" name="3" trans=""/>
+                    <char x="2067" y="1033" h="59" w="47" name="4" trans=""/>
+                    <char x="2126" y="1033" h="59" w="47" name="5" trans=""/>
+                    <char x="2185" y="1033" h="59" w="47" name="6" trans=""/>
+                    <char x="2244" y="1033" h="59" w="47" name="7" trans=""/>
+                    <char x="2303" y="1033" h="59" w="47" name="8" trans=""/>
+                </field>
+                <field name="foreigner_document_date" trans="Дата выдачи" type="1">
+                    <char x="354" y="1116" h="59" w="47" name="d" trans=""/>
+                    <char x="413" y="1116" h="59" w="48" name="d" trans=""/>
+                    <char x="590" y="1116" h="59" w="48" name="m" trans=""/>
+                    <char x="649" y="1116" h="59" w="48" name="m" trans=""/>
+                    <char x="768" y="1116" h="59" w="47" name="y" trans=""/>
+                    <char x="827" y="1116" h="59" w="47" name="y" trans=""/>
+                    <char x="886" y="1116" h="59" w="47" name="y" trans=""/>
+                    <char x="945" y="1116" h="59" w="47" name="y" trans=""/>
+                </field>
+                <field name="foreigner_document_term" trans="Срок действия" type="1">
+                    <char x="1299" y="1116" h="59" w="47" name="d" trans=""/>
+                    <char x="1358" y="1116" h="59" w="47" name="d" trans=""/>
+                    <char x="1535" y="1116" h="59" w="47" name="m" trans=""/>
+                    <char x="1594" y="1116" h="59" w="48" name="m" trans=""/>
+                    <char x="1712" y="1116" h="59" w="47" name="y" trans=""/>
+                    <char x="1771" y="1116" h="59" w="47" name="y" trans=""/>
+                    <char x="1831" y="1116" h="59" w="47" name="y" trans=""/>
+                    <char x="1890" y="1116" h="59" w="47" name="y" trans=""/>
+                </field>
+            </group>
+            <group trans="Вид и реквезиты документа,\n подтверждающего право на пребывание\n (проживание) в Российской Федерации">
+                <field name="foreigner_visa_type" trans="Вид" type="2">
+                    <char x="295" y="1281" h="59" w="47" name="0" trans="Виза"/>
+                    <char x="709" y="1281" h="59" w="47" name="1" trans="Вид на жительство"/>
+                    <char x="1299" y="1281" h="59" w="47" name="2" trans="Разрешение на временное проживание"/>
+                    <char x="142" y="137" h="0" w="0" name="3" trans="Документа нет"/>
+                </field>
+                <field name="foreigner_visa_series" trans="Серия" type="0">
+                    <char x="1535" y="1281" h="59" w="47" name="0" trans=""/>
+                    <char x="1594" y="1281" h="59" w="48" name="1" trans=""/>
+                    <char x="1653" y="1281" h="59" w="48" name="2" trans=""/>
+                    <char x="1712" y="1281" h="59" w="48" name="3" trans=""/>
+                </field>
+                <field name="foreigner_visa_number" trans="№" type="0">
+                    <char x="1830" y="1281" h="59" w="48" name="0" trans=""/>
+                    <char x="1890" y="1281" h="59" w="47" name="1" trans=""/>
+                    <char x="1949" y="1281" h="59" w="47" name="2" trans=""/>
+                    <char x="2008" y="1281" h="59" w="47" name="3" trans=""/>
+                    <char x="2067" y="1281" h="59" w="47" name="4" trans=""/>
+                    <char x="2126" y="1281" h="59" w="47" name="5" trans=""/>
+                    <char x="2185" y="1281" h="59" w="47" name="6" trans=""/>
+                    <char x="2244" y="1281" h="59" w="47" name="7" trans=""/>
+                    <char x="2303" y="1281" h="59" w="47" name="8" trans=""/>
+                </field>
+                <field name="foreigner_visa_date" trans="Дата выдачи" type="1">
+                    <char x="354" y="1364" h="59" w="47" name="d" trans=""/>
+                    <char x="413" y="1364" h="59" w="48" name="d" trans=""/>
+                    <char x="590" y="1364" h="59" w="48" name="m" trans=""/>
+                    <char x="649" y="1364" h="59" w="48" name="m" trans=""/>
+                    <char x="768" y="1364" h="59" w="47" name="y" trans=""/>
+                    <char x="827" y="1364" h="59" w="47" name="y" trans=""/>
+                    <char x="886" y="1364" h="59" w="47" name="y" trans=""/>
+                    <char x="945" y="1364" h="59" w="47" name="y" trans=""/>
+                </field>
+                <field name="foreigner_visa_term" trans="Срок действия" type="1">
+                    <char x="1299" y="1364" h="59" w="47" name="d" trans=""/>
+                    <char x="1358" y="1364" h="59" w="47" name="d" trans=""/>
+                    <char x="1535" y="1364" h="59" w="47" name="m" trans=""/>
+                    <char x="1594" y="1364" h="59" w="48" name="m" trans=""/>
+                    <char x="1712" y="1364" h="59" w="47" name="y" trans=""/>
+                    <char x="1771" y="1364" h="59" w="47" name="y" trans=""/>
+                    <char x="1831" y="1364" h="59" w="47" name="y" trans=""/>
+                    <char x="1890" y="1364" h="59" w="47" name="y" trans=""/>
+                </field>
+            </group>
+            <field name="foreigner_purpose" trans="Цель въезда" type="2">
+                <char x="531" y="1446" h="60" w="48" name="0" trans="служебная"/>
+                <char x="709" y="1446" h="60" w="47" name="1" trans="туризм"/>
+                <char x="945" y="1446" h="59" w="47" name="2" trans="деловая"/>
+                <char x="1122" y="1446" h="59" w="47" name="3" trans="учеба"/>
+                <char x="1299" y="1446" h="59" w="47" name="4" trans="работа"/>
+                <char x="1476" y="1446" h="59" w="47" name="5" trans="частная"/>
+                <char x="1653" y="1446" h="59" w="48" name="6" trans="транзит"/>
+                <char x="1949" y="1446" h="60" w="47" name="7" trans="гумманитарная"/>
+                <char x="2126" y="1446" h="60" w="47" name="8" trans="другая"/>
+            </field>
+            <field name="foreigner_occupation" trans="Профессия" type="0">
+                <char x="295" y="1529" h="59" w="47" name="0" trans=""/>
+                <char x="354" y="1529" h="59" w="47" name="1" trans=""/>
+                <char x="413" y="1529" h="59" w="48" name="2" trans=""/>
+                <char x="472" y="1529" h="59" w="48" name="3" trans=""/>
+                <char x="531" y="1529" h="59" w="48" name="4" trans=""/>
+                <char x="590" y="1529" h="59" w="48" name="5" trans=""/>
+                <char x="649" y="1529" h="59" w="48" name="6" trans=""/>
+                <char x="709" y="1529" h="59" w="47" name="7" trans=""/>
+                <char x="768" y="1529" h="59" w="47" name="8" trans=""/>
+                <char x="827" y="1529" h="59" w="47" name="9" trans=""/>
+                <char x="886" y="1529" h="59" w="47" name="10" trans=""/>
+                <char x="945" y="1529" h="59" w="47" name="11" trans=""/>
+                <char x="1004" y="1529" h="59" w="47" name="12" trans=""/>
+                <char x="1063" y="1529" h="59" w="47" name="13" trans=""/>
+                <char x="1122" y="1529" h="59" w="47" name="14" trans=""/>
+                <char x="1181" y="1529" h="59" w="47" name="15" trans=""/>
+                <char x="1240" y="1529" h="59" w="47" name="16" trans=""/>
+                <char x="1299" y="1529" h="59" w="47" name="17" trans=""/>
+                <char x="1358" y="1529" h="59" w="47" name="18" trans=""/>
+                <char x="1417" y="1529" h="59" w="47" name="19" trans=""/>
+                <char x="1476" y="1529" h="59" w="47" name="20" trans=""/>
+                <char x="1535" y="1529" h="59" w="47" name="21" trans=""/>
+                <char x="1594" y="1529" h="59" w="48" name="22" trans=""/>
+            </field>
+            <field name="foreigner_entry_date" trans="Дата въезда" type="1">
+                <char x="472" y="1612" h="59" w="47" name="d" trans=""/>
+                <char x="531" y="1612" h="59" w="47" name="d" trans=""/>
+                <char x="708" y="1612" h="59" w="48" name="m" trans=""/>
+                <char x="767" y="1612" h="59" w="48" name="m" trans=""/>
+                <char x="886" y="1612" h="59" w="47" name="y" trans=""/>
+                <char x="945" y="1612" h="59" w="47" name="y" trans=""/>
+                <char x="1004" y="1612" h="59" w="47" name="y" trans=""/>
+                <char x="1063" y="1612" h="59" w="47" name="y" trans=""/>
+            </field>
+            <field name="accepter_entry_term" trans="Срок пребывания до" type="1">
+                <char x="1712" y="1612" h="59" w="48" name="d" trans=""/>
+                <char x="1771" y="1612" h="59" w="48" name="d" trans=""/>
+                <char x="1949" y="1612" h="59" w="47" name="m" trans=""/>
+                <char x="2008" y="1612" h="59" w="47" name="m" trans=""/>
+                <char x="2126" y="1612" h="59" w="47" name="y" trans=""/>
+                <char x="2185" y="1612" h="59" w="47" name="y" trans=""/>
+                <char x="2244" y="1612" h="59" w="47" name="y" trans=""/>
+                <char x="2303" y="1612" h="59" w="47" name="y" trans=""/>
+            </field>
+            <group trans="Миграционная карта">
+                <field name="foreigner_migration_card_series" trans="Серия" type="0">
+                    <char x="591" y="1724" h="59" w="47" name="0" trans=""/>
+                    <char x="650" y="1724" h="59" w="47" name="1" trans=""/>
+                    <char x="709" y="1724" h="59" w="47" name="2" trans=""/>
+                    <char x="768" y="1724" h="59" w="47" name="3" trans=""/>
+                </field>
+                <field name="foreigner_migration_card_number" trans="№" type="0">
+                    <char x="886" y="1724" h="59" w="47" name="0" trans=""/>
+                    <char x="945" y="1724" h="59" w="47" name="1" trans=""/>
+                    <char x="1004" y="1724" h="59" w="47" name="2" trans=""/>
+                    <char x="1063" y="1724" h="59" w="47" name="3" trans=""/>
+                    <char x="1122" y="1724" h="59" w="48" name="4" trans=""/>
+                    <char x="1181" y="1724" h="59" w="48" name="5" trans=""/>
+                    <char x="1240" y="1724" h="59" w="48" name="6" trans=""/>
+                </field>
+            </group>
+            <field name="foreigner_representative" trans="Сведения о законных представителях" type="0">
+                <char x="354" y="1822" h="60" w="47" name="0" trans=""/>
+                <char x="413" y="1822" h="60" w="48" name="1" trans=""/>
+                <char x="472" y="1822" h="60" w="48" name="2" trans=""/>
+                <char x="531" y="1822" h="60" w="48" name="3" trans=""/>
+                <char x="590" y="1822" h="60" w="48" name="4" trans=""/>
+                <char x="649" y="1822" h="60" w="48" name="5" trans=""/>
+                <char x="709" y="1822" h="60" w="47" name="6" trans=""/>
+                <char x="768" y="1822" h="60" w="47" name="7" trans=""/>
+                <char x="827" y="1822" h="60" w="47" name="8" trans=""/>
+                <char x="886" y="1822" h="60" w="47" name="9" trans=""/>
+                <char x="945" y="1822" h="60" w="47" name="10" trans=""/>
+                <char x="1004" y="1822" h="60" w="47" name="11" trans=""/>
+                <char x="1063" y="1822" h="60" w="47" name="12" trans=""/>
+                <char x="1122" y="1822" h="60" w="47" name="13" trans=""/>
+                <char x="1181" y="1822" h="60" w="47" name="14" trans=""/>
+                <char x="1240" y="1822" h="60" w="47" name="15" trans=""/>
+                <char x="1299" y="1822" h="60" w="47" name="16" trans=""/>
+                <char x="1358" y="1822" h="60" w="47" name="17" trans=""/>
+                <char x="1417" y="1822" h="60" w="47" name="18" trans=""/>
+                <char x="354" y="1905" h="59" w="47" name="19" trans=""/>
+                <char x="413" y="1905" h="59" w="48" name="20" trans=""/>
+                <char x="472" y="1905" h="59" w="48" name="21" trans=""/>
+                <char x="531" y="1905" h="59" w="48" name="22" trans=""/>
+                <char x="590" y="1905" h="59" w="48" name="23" trans=""/>
+                <char x="649" y="1905" h="59" w="48" name="24" trans=""/>
+                <char x="709" y="1905" h="59" w="47" name="25" trans=""/>
+                <char x="768" y="1905" h="59" w="47" name="26" trans=""/>
+                <char x="827" y="1905" h="59" w="47" name="27" trans=""/>
+                <char x="886" y="1905" h="59" w="47" name="28" trans=""/>
+                <char x="945" y="1905" h="59" w="47" name="29" trans=""/>
+                <char x="1004" y="1905" h="59" w="47" name="30" trans=""/>
+                <char x="1063" y="1905" h="59" w="47" name="31" trans=""/>
+                <char x="1122" y="1905" h="59" w="47" name="32" trans=""/>
+                <char x="1181" y="1905" h="59" w="47" name="33" trans=""/>
+                <char x="1240" y="1905" h="59" w="47" name="34" trans=""/>
+                <char x="1299" y="1905" h="59" w="47" name="35" trans=""/>
+                <char x="1358" y="1905" h="59" w="47" name="36" trans=""/>
+                <char x="1417" y="1905" h="59" w="47" name="37" trans=""/>
+                <char x="354" y="1988" h="59" w="47" name="38" trans=""/>
+                <char x="413" y="1988" h="59" w="48" name="39" trans=""/>
+                <char x="472" y="1988" h="59" w="48" name="40" trans=""/>
+                <char x="531" y="1988" h="59" w="48" name="41" trans=""/>
+                <char x="590" y="1988" h="59" w="48" name="42" trans=""/>
+                <char x="649" y="1988" h="59" w="48" name="43" trans=""/>
+                <char x="709" y="1988" h="59" w="47" name="44" trans=""/>
+                <char x="768" y="1988" h="59" w="47" name="45" trans=""/>
+                <char x="827" y="1988" h="59" w="47" name="46" trans=""/>
+                <char x="886" y="1988" h="59" w="47" name="47" trans=""/>
+                <char x="945" y="1988" h="59" w="47" name="48" trans=""/>
+                <char x="1004" y="1988" h="59" w="47" name="49" trans=""/>
+                <char x="1063" y="1988" h="59" w="47" name="50" trans=""/>
+                <char x="1122" y="1988" h="59" w="47" name="51" trans=""/>
+                <char x="1181" y="1988" h="59" w="47" name="52" trans=""/>
+                <char x="1240" y="1988" h="59" w="47" name="53" trans=""/>
+                <char x="1299" y="1988" h="59" w="47" name="54" trans=""/>
+                <char x="1358" y="1988" h="59" w="47" name="55" trans=""/>
+                <char x="1417" y="1988" h="59" w="47" name="56" trans=""/>
+                <char x="354" y="2070" h="59" w="47" name="57" trans=""/>
+                <char x="413" y="2070" h="59" w="48" name="58" trans=""/>
+                <char x="472" y="2070" h="59" w="48" name="59" trans=""/>
+                <char x="531" y="2070" h="59" w="48" name="60" trans=""/>
+                <char x="590" y="2070" h="59" w="48" name="61" trans=""/>
+                <char x="649" y="2070" h="59" w="48" name="62" trans=""/>
+                <char x="709" y="2070" h="59" w="47" name="63" trans=""/>
+                <char x="768" y="2070" h="59" w="47" name="64" trans=""/>
+                <char x="827" y="2070" h="59" w="47" name="65" trans=""/>
+                <char x="886" y="2070" h="59" w="47" name="66" trans=""/>
+                <char x="945" y="2070" h="59" w="47" name="67" trans=""/>
+                <char x="1004" y="2070" h="59" w="47" name="68" trans=""/>
+                <char x="1063" y="2070" h="59" w="47" name="69" trans=""/>
+                <char x="1122" y="2070" h="59" w="47" name="70" trans=""/>
+                <char x="1181" y="2070" h="59" w="47" name="71" trans=""/>
+                <char x="1240" y="2070" h="59" w="47" name="72" trans=""/>
+                <char x="1299" y="2070" h="59" w="47" name="73" trans=""/>
+                <char x="1358" y="2070" h="59" w="47" name="74" trans=""/>
+                <char x="1417" y="2070" h="59" w="47" name="75" trans=""/>
+                <char x="354" y="2153" h="59" w="47" name="76" trans=""/>
+                <char x="413" y="2153" h="59" w="48" name="77" trans=""/>
+                <char x="472" y="2153" h="59" w="48" name="78" trans=""/>
+                <char x="531" y="2153" h="59" w="48" name="79" trans=""/>
+                <char x="590" y="2153" h="59" w="48" name="80" trans=""/>
+                <char x="649" y="2153" h="59" w="48" name="81" trans=""/>
+                <char x="709" y="2153" h="59" w="47" name="82" trans=""/>
+                <char x="768" y="2153" h="59" w="47" name="83" trans=""/>
+                <char x="827" y="2153" h="59" w="47" name="84" trans=""/>
+                <char x="886" y="2153" h="59" w="47" name="85" trans=""/>
+                <char x="945" y="2153" h="59" w="47" name="86" trans=""/>
+                <char x="1004" y="2153" h="59" w="47" name="87" trans=""/>
+                <char x="1063" y="2153" h="59" w="47" name="88" trans=""/>
+                <char x="1122" y="2153" h="59" w="47" name="89" trans=""/>
+                <char x="1181" y="2153" h="59" w="47" name="90" trans=""/>
+                <char x="1240" y="2153" h="59" w="47" name="91" trans=""/>
+                <char x="1299" y="2153" h="59" w="47" name="92" trans=""/>
+                <char x="1358" y="2153" h="59" w="47" name="93" trans=""/>
+                <char x="1417" y="2153" h="59" w="47" name="94" trans=""/>
+            </field>
+            <field name="foreigner_surname" trans="Фамилия" type="0">
+                <char x="295" y="2421" h="59" w="47" name="0" trans=""/>
+                <char x="354" y="2421" h="59" w="47" name="1" trans=""/>
+                <char x="413" y="2421" h="59" w="48" name="2" trans=""/>
+                <char x="472" y="2421" h="59" w="48" name="3" trans=""/>
+                <char x="531" y="2421" h="59" w="48" name="4" trans=""/>
+                <char x="590" y="2421" h="59" w="48" name="5" trans=""/>
+                <char x="649" y="2421" h="59" w="48" name="6" trans=""/>
+                <char x="709" y="2421" h="59" w="47" name="7" trans=""/>
+                <char x="768" y="2421" h="59" w="47" name="8" trans=""/>
+                <char x="827" y="2421" h="59" w="47" name="9" trans=""/>
+                <char x="886" y="2421" h="59" w="47" name="10" trans=""/>
+                <char x="945" y="2421" h="59" w="47" name="11" trans=""/>
+                <char x="1004" y="2421" h="59" w="47" name="12" trans=""/>
+                <char x="1063" y="2421" h="59" w="47" name="13" trans=""/>
+                <char x="1122" y="2421" h="59" w="47" name="14" trans=""/>
+                <char x="1181" y="2421" h="59" w="47" name="15" trans=""/>
+                <char x="1240" y="2421" h="59" w="47" name="16" trans=""/>
+                <char x="1299" y="2421" h="59" w="47" name="17" trans=""/>
+                <char x="1358" y="2421" h="59" w="47" name="18" trans=""/>
+                <char x="1417" y="2421" h="59" w="47" name="19" trans=""/>
+                <char x="1476" y="2421" h="59" w="47" name="20" trans=""/>
+                <char x="1535" y="2421" h="59" w="47" name="21" trans=""/>
+                <char x="1594" y="2421" h="59" w="48" name="22" trans=""/>
+                <char x="1653" y="2421" h="59" w="48" name="23" trans=""/>
+                <char x="1712" y="2421" h="59" w="48" name="24" trans=""/>
+                <char x="1771" y="2421" h="59" w="48" name="25" trans=""/>
+                <char x="1830" y="2421" h="59" w="48" name="26" trans=""/>
+                <char x="1890" y="2421" h="59" w="47" name="27" trans=""/>
+                <char x="1949" y="2421" h="59" w="47" name="28" trans=""/>
+                <char x="2008" y="2421" h="59" w="47" name="29" trans=""/>
+                <char x="2067" y="2421" h="59" w="47" name="30" trans=""/>
+                <char x="2126" y="2421" h="59" w="47" name="31" trans=""/>
+                <char x="2185" y="2421" h="59" w="47" name="32" trans=""/>
+            </field>
+            <field name="foreigner_name" trans="Имя, отчество" type="0">
+                <char x="295" y="2503" h="59" w="47" name="0" trans=""/>
+                <char x="354" y="2503" h="59" w="47" name="1" trans=""/>
+                <char x="413" y="2503" h="59" w="48" name="2" trans=""/>
+                <char x="472" y="2503" h="59" w="48" name="3" trans=""/>
+                <char x="531" y="2503" h="59" w="48" name="4" trans=""/>
+                <char x="590" y="2503" h="59" w="48" name="5" trans=""/>
+                <char x="649" y="2503" h="59" w="48" name="6" trans=""/>
+                <char x="709" y="2503" h="59" w="47" name="7" trans=""/>
+                <char x="768" y="2503" h="59" w="47" name="8" trans=""/>
+                <char x="827" y="2503" h="59" w="47" name="9" trans=""/>
+                <char x="886" y="2503" h="59" w="47" name="10" trans=""/>
+                <char x="945" y="2503" h="59" w="47" name="11" trans=""/>
+                <char x="1004" y="2503" h="59" w="47" name="12" trans=""/>
+                <char x="1063" y="2503" h="59" w="47" name="13" trans=""/>
+                <char x="1122" y="2503" h="59" w="47" name="14" trans=""/>
+                <char x="1181" y="2503" h="59" w="47" name="15" trans=""/>
+                <char x="1240" y="2503" h="59" w="47" name="16" trans=""/>
+                <char x="1299" y="2503" h="59" w="47" name="17" trans=""/>
+                <char x="1358" y="2503" h="59" w="47" name="18" trans=""/>
+                <char x="1417" y="2503" h="59" w="47" name="19" trans=""/>
+                <char x="1476" y="2503" h="59" w="47" name="20" trans=""/>
+                <char x="1535" y="2503" h="59" w="47" name="21" trans=""/>
+                <char x="1594" y="2503" h="59" w="48" name="22" trans=""/>
+                <char x="1653" y="2503" h="59" w="48" name="23" trans=""/>
+                <char x="1712" y="2503" h="59" w="48" name="24" trans=""/>
+                <char x="1771" y="2503" h="59" w="48" name="25" trans=""/>
+                <char x="1830" y="2503" h="59" w="48" name="26" trans=""/>
+                <char x="1890" y="2503" h="59" w="47" name="27" trans=""/>
+                <char x="1949" y="2503" h="59" w="47" name="28" trans=""/>
+                <char x="2008" y="2503" h="59" w="47" name="29" trans=""/>
+                <char x="2067" y="2503" h="59" w="47" name="30" trans=""/>
+                <char x="2126" y="2503" h="59" w="47" name="31" trans=""/>
+                <char x="2185" y="2503" h="59" w="47" name="32" trans=""/>
+            </field>
+            <field name="foreigner_citizenship" trans="Гражданство, подданство" type="0">
+                <char x="354" y="2586" h="59" w="47" name="0" trans=""/>
+                <char x="413" y="2586" h="59" w="48" name="1" trans=""/>
+                <char x="472" y="2586" h="59" w="48" name="2" trans=""/>
+                <char x="531" y="2586" h="59" w="48" name="3" trans=""/>
+                <char x="590" y="2586" h="59" w="48" name="4" trans=""/>
+                <char x="649" y="2586" h="59" w="48" name="5" trans=""/>
+                <char x="709" y="2586" h="59" w="47" name="6" trans=""/>
+                <char x="768" y="2586" h="59" w="47" name="7" trans=""/>
+                <char x="827" y="2586" h="59" w="47" name="8" trans=""/>
+                <char x="886" y="2586" h="59" w="47" name="9" trans=""/>
+                <char x="945" y="2586" h="59" w="47" name="10" trans=""/>
+                <char x="1004" y="2586" h="59" w="47" name="11" trans=""/>
+                <char x="1063" y="2586" h="59" w="47" name="12" trans=""/>
+                <char x="1122" y="2586" h="59" w="47" name="13" trans=""/>
+                <char x="1181" y="2586" h="59" w="47" name="14" trans=""/>
+                <char x="1240" y="2586" h="59" w="47" name="15" trans=""/>
+                <char x="1299" y="2586" h="59" w="47" name="16" trans=""/>
+                <char x="1358" y="2586" h="59" w="47" name="17" trans=""/>
+                <char x="1417" y="2586" h="59" w="47" name="18" trans=""/>
+                <char x="1476" y="2586" h="59" w="47" name="19" trans=""/>
+                <char x="1535" y="2586" h="59" w="47" name="20" trans=""/>
+                <char x="1594" y="2586" h="59" w="48" name="21" trans=""/>
+                <char x="1653" y="2586" h="59" w="48" name="22" trans=""/>
+                <char x="1712" y="2586" h="59" w="48" name="23" trans=""/>
+                <char x="1771" y="2586" h="59" w="48" name="24" trans=""/>
+                <char x="1830" y="2586" h="59" w="48" name="25" trans=""/>
+                <char x="1890" y="2586" h="59" w="47" name="26" trans=""/>
+                <char x="1949" y="2586" h="59" w="47" name="27" trans=""/>
+                <char x="2008" y="2586" h="59" w="47" name="28" trans=""/>
+                <char x="2067" y="2586" h="59" w="47" name="29" trans=""/>
+                <char x="2126" y="2586" h="59" w="47" name="30" trans=""/>
+                <char x="2185" y="2586" h="59" w="47" name="31" trans=""/>
+                <char x="2244" y="2586" h="59" w="47" name="32" trans=""/>
+                <char x="2303" y="2586" h="59" w="47" name="33" trans=""/>
+            </field>
+            <field name="foreigner_birth_date" trans="Дата рождения" type="1">
+                <char x="414" y="2668" h="59" w="47" name="0" trans=""/>
+                <char x="473" y="2668" h="59" w="47" name="1" trans=""/>
+                <char x="650" y="2668" h="59" w="47" name="2" trans=""/>
+                <char x="709" y="2668" h="59" w="47" name="3" trans=""/>
+                <char x="827" y="2668" h="59" w="47" name="4" trans=""/>
+                <char x="886" y="2668" h="59" w="48" name="5" trans=""/>
+                <char x="945" y="2668" h="59" w="48" name="6" trans=""/>
+                <char x="1004" y="2668" h="59" w="48" name="7" trans=""/>
+            </field>
+            <field name="foreigner_sex" trans="Пол" type="2">
+                <char x="1536" y="2668" h="59" w="47" name="m" trans=""/>
+                <char x="1831" y="2668" h="59" w="47" name="w" trans=""/>
+            </field>
+            <field name="foreigner_document_type" trans="вид" type="0">
+                <char x="768" y="2745" h="59" w="47" name="0" trans=""/>
+                <char x="827" y="2745" h="59" w="47" name="1" trans=""/>
+                <char x="886" y="2745" h="59" w="47" name="2" trans=""/>
+                <char x="945" y="2745" h="59" w="47" name="3" trans=""/>
+                <char x="1004" y="2745" h="59" w="47" name="4" trans=""/>
+                <char x="1063" y="2745" h="59" w="47" name="5" trans=""/>
+                <char x="1122" y="2745" h="59" w="47" name="6" trans=""/>
+                <char x="1181" y="2745" h="59" w="47" name="7" trans=""/>
+                <char x="1240" y="2745" h="59" w="47" name="8" trans=""/>
+                <char x="1299" y="2745" h="59" w="47" name="9" trans=""/>
+                <char x="1358" y="2745" h="59" w="47" name="10" trans=""/>
+            </field>
+            <field name="foreigner_document_series" trans="Серия" type="0">
+                <char x="1535" y="2745" h="59" w="47" name="0" trans=""/>
+                <char x="1594" y="2745" h="59" w="48" name="1" trans=""/>
+                <char x="1653" y="2745" h="59" w="48" name="2" trans=""/>
+                <char x="1712" y="2745" h="59" w="48" name="3" trans=""/>
+            </field>
+            <field name="foreigner_document_number" trans="№" type="0">
+                <char x="1830" y="2745" h="59" w="48" name="0" trans=""/>
+                <char x="1890" y="2745" h="59" w="47" name="1" trans=""/>
+                <char x="1949" y="2745" h="59" w="47" name="2" trans=""/>
+                <char x="2008" y="2745" h="59" w="47" name="3" trans=""/>
+                <char x="2067" y="2745" h="59" w="47" name="4" trans=""/>
+                <char x="2126" y="2745" h="59" w="47" name="5" trans=""/>
+                <char x="2185" y="2745" h="59" w="47" name="6" trans=""/>
+                <char x="2244" y="2745" h="59" w="47" name="7" trans=""/>
+                <char x="2303" y="2745" h="59" w="47" name="8" trans=""/>
+            </field>
+            <group trans="Сведения о месте пребывания">
+                <field name="place_region" trans="Область, край, республика, АО" type="0">
+                    <char x="413" y="2869" h="59" w="47" name="0" trans=""/>
+                    <char x="473" y="2869" h="59" w="47" name="1" trans=""/>
+                    <char x="532" y="2869" h="59" w="47" name="2" trans=""/>
+                    <char x="591" y="2869" h="59" w="47" name="3" trans=""/>
+                    <char x="650" y="2869" h="59" w="47" name="4" trans=""/>
+                    <char x="709" y="2869" h="59" w="47" name="5" trans=""/>
+                    <char x="768" y="2869" h="59" w="47" name="6" trans=""/>
+                    <char x="827" y="2869" h="59" w="47" name="7" trans=""/>
+                    <char x="886" y="2869" h="59" w="47" name="8" trans=""/>
+                    <char x="945" y="2869" h="59" w="47" name="9" trans=""/>
+                    <char x="1004" y="2869" h="59" w="48" name="10" trans=""/>
+                    <char x="1063" y="2869" h="59" w="48" name="11" trans=""/>
+                    <char x="1122" y="2869" h="59" w="48" name="12" trans=""/>
+                    <char x="1181" y="2869" h="59" w="48" name="13" trans=""/>
+                    <char x="1240" y="2869" h="59" w="48" name="14" trans=""/>
+                    <char x="1300" y="2869" h="59" w="47" name="15" trans=""/>
+                    <char x="1359" y="2869" h="59" w="47" name="16" trans=""/>
+                    <char x="1418" y="2869" h="59" w="47" name="17" trans=""/>
+                    <char x="1477" y="2869" h="59" w="47" name="18" trans=""/>
+                    <char x="1536" y="2869" h="59" w="47" name="19" trans=""/>
+                    <char x="1595" y="2869" h="59" w="47" name="20" trans=""/>
+                    <char x="1654" y="2869" h="59" w="47" name="21" trans=""/>
+                    <char x="1713" y="2869" h="59" w="47" name="22" trans=""/>
+                    <char x="1772" y="2869" h="59" w="47" name="23" trans=""/>
+                    <char x="1831" y="2869" h="59" w="47" name="24" trans=""/>
+                    <char x="1890" y="2869" h="59" w="47" name="25" trans=""/>
+                    <char x="1949" y="2869" h="59" w="47" name="26" trans=""/>
+                    <char x="2008" y="2869" h="59" w="47" name="27" trans=""/>
+                    <char x="2067" y="2869" h="59" w="47" name="28" trans=""/>
+                    <char x="2126" y="2869" h="59" w="47" name="29" trans=""/>
+                    <char x="2185" y="2869" h="59" w="48" name="30" trans=""/>
+                    <char x="2244" y="2869" h="59" w="48" name="31" trans=""/>
+                    <char x="2303" y="2869" h="59" w="48" name="32" trans=""/>
+                </field>
+                <field name="place_area" trans="Регион" type="0">
+                    <char x="295" y="2946" h="59" w="47" name="0" trans=""/>
+                    <char x="354" y="2946" h="59" w="47" name="1" trans=""/>
+                    <char x="413" y="2946" h="59" w="48" name="2" trans=""/>
+                    <char x="472" y="2946" h="59" w="48" name="3" trans=""/>
+                    <char x="531" y="2946" h="59" w="48" name="4" trans=""/>
+                    <char x="590" y="2946" h="59" w="48" name="5" trans=""/>
+                    <char x="649" y="2946" h="59" w="48" name="6" trans=""/>
+                    <char x="709" y="2946" h="59" w="47" name="7" trans=""/>
+                    <char x="768" y="2946" h="59" w="47" name="8" trans=""/>
+                    <char x="827" y="2946" h="59" w="47" name="9" trans=""/>
+                    <char x="886" y="2946" h="59" w="47" name="10" trans=""/>
+                    <char x="945" y="2946" h="59" w="47" name="11" trans=""/>
+                    <char x="1004" y="2946" h="59" w="47" name="12" trans=""/>
+                    <char x="1063" y="2946" h="59" w="47" name="13" trans=""/>
+                    <char x="1122" y="2946" h="59" w="47" name="14" trans=""/>
+                    <char x="1181" y="2946" h="59" w="47" name="15" trans=""/>
+                    <char x="1240" y="2946" h="59" w="47" name="16" trans=""/>
+                    <char x="1299" y="2946" h="59" w="47" name="17" trans=""/>
+                    <char x="1358" y="2946" h="59" w="47" name="18" trans=""/>
+                    <char x="1417" y="2946" h="59" w="47" name="19" trans=""/>
+                    <char x="1476" y="2946" h="59" w="47" name="20" trans=""/>
+                    <char x="1535" y="2946" h="59" w="47" name="21" trans=""/>
+                    <char x="1594" y="2946" h="59" w="48" name="22" trans=""/>
+                    <char x="1653" y="2946" h="59" w="48" name="23" trans=""/>
+                    <char x="1712" y="2946" h="59" w="48" name="24" trans=""/>
+                    <char x="1771" y="2946" h="59" w="48" name="25" trans=""/>
+                    <char x="1830" y="2946" h="59" w="48" name="26" trans=""/>
+                    <char x="1890" y="2946" h="59" w="47" name="27" trans=""/>
+                    <char x="1949" y="2946" h="59" w="47" name="28" trans=""/>
+                    <char x="2008" y="2946" h="59" w="47" name="29" trans=""/>
+                    <char x="2067" y="2946" h="59" w="47" name="30" trans=""/>
+                    <char x="2126" y="2946" h="59" w="47" name="31" trans=""/>
+                    <char x="2185" y="2946" h="59" w="47" name="32" trans=""/>
+                    <char x="2244" y="2946" h="59" w="47" name="33" trans=""/>
+                    <char x="2303" y="2946" h="59" w="47" name="34" trans=""/>
+                </field>
+                <field name="place_city" trans="Город или другой населенный пункт" type="0">
+                    <char x="413" y="3029" h="59" w="48" name="0" trans=""/>
+                    <char x="472" y="3029" h="59" w="48" name="1" trans=""/>
+                    <char x="531" y="3029" h="59" w="48" name="2" trans=""/>
+                    <char x="590" y="3029" h="59" w="48" name="3" trans=""/>
+                    <char x="649" y="3029" h="59" w="48" name="4" trans=""/>
+                    <char x="709" y="3029" h="59" w="47" name="5" trans=""/>
+                    <char x="768" y="3029" h="59" w="47" name="6" trans=""/>
+                    <char x="827" y="3029" h="59" w="47" name="7" trans=""/>
+                    <char x="886" y="3029" h="59" w="47" name="8" trans=""/>
+                    <char x="945" y="3029" h="59" w="47" name="9" trans=""/>
+                    <char x="1004" y="3029" h="59" w="47" name="10" trans=""/>
+                    <char x="1063" y="3029" h="59" w="47" name="11" trans=""/>
+                    <char x="1122" y="3029" h="59" w="47" name="12" trans=""/>
+                    <char x="1181" y="3029" h="59" w="47" name="13" trans=""/>
+                    <char x="1240" y="3029" h="59" w="47" name="14" trans=""/>
+                    <char x="1299" y="3029" h="59" w="47" name="15" trans=""/>
+                    <char x="1358" y="3029" h="59" w="47" name="16" trans=""/>
+                    <char x="1417" y="3029" h="59" w="47" name="17" trans=""/>
+                    <char x="1476" y="3029" h="59" w="47" name="18" trans=""/>
+                    <char x="1535" y="3029" h="59" w="47" name="19" trans=""/>
+                    <char x="1594" y="3029" h="59" w="48" name="20" trans=""/>
+                    <char x="1653" y="3029" h="59" w="48" name="21" trans=""/>
+                    <char x="1712" y="3029" h="59" w="48" name="22" trans=""/>
+                    <char x="1771" y="3029" h="59" w="48" name="23" trans=""/>
+                    <char x="1830" y="3029" h="59" w="48" name="24" trans=""/>
+                    <char x="1890" y="3029" h="59" w="48" name="25" trans=""/>
+                    <char x="1949" y="3029" h="59" w="47" name="26" trans=""/>
+                    <char x="2008" y="3029" h="59" w="47" name="27" trans=""/>
+                    <char x="2067" y="3029" h="59" w="47" name="28" trans=""/>
+                    <char x="2126" y="3029" h="59" w="47" name="29" trans=""/>
+                    <char x="2185" y="3029" h="59" w="47" name="30" trans=""/>
+                    <char x="2244" y="3029" h="59" w="47" name="31" trans=""/>
+                    <char x="2303" y="3029" h="59" w="47" name="32" trans=""/>
+                </field>
+                <field name="place_street" trans="Улица" type="0">
+                    <char x="295" y="3110" h="59" w="48" name="0" trans=""/>
+                    <char x="354" y="3110" h="59" w="48" name="1" trans=""/>
+                    <char x="413" y="3110" h="59" w="48" name="2" trans=""/>
+                    <char x="472" y="3110" h="59" w="48" name="3" trans=""/>
+                    <char x="531" y="3110" h="59" w="48" name="4" trans=""/>
+                    <char x="591" y="3110" h="59" w="47" name="5" trans=""/>
+                    <char x="650" y="3110" h="59" w="47" name="6" trans=""/>
+                    <char x="709" y="3110" h="59" w="47" name="7" trans=""/>
+                    <char x="768" y="3110" h="59" w="47" name="8" trans=""/>
+                    <char x="827" y="3110" h="59" w="47" name="9" trans=""/>
+                    <char x="886" y="3110" h="59" w="47" name="10" trans=""/>
+                    <char x="945" y="3110" h="59" w="47" name="11" trans=""/>
+                    <char x="1004" y="3110" h="59" w="47" name="12" trans=""/>
+                    <char x="1063" y="3110" h="59" w="47" name="13" trans=""/>
+                    <char x="1122" y="3110" h="59" w="47" name="14" trans=""/>
+                    <char x="1181" y="3110" h="59" w="47" name="15" trans=""/>
+                    <char x="1240" y="3110" h="59" w="47" name="16" trans=""/>
+                    <char x="1299" y="3110" h="59" w="47" name="17" trans=""/>
+                    <char x="1358" y="3110" h="59" w="47" name="18" trans=""/>
+                    <char x="1417" y="3110" h="59" w="47" name="19" trans=""/>
+                    <char x="1476" y="3110" h="59" w="48" name="20" trans=""/>
+                    <char x="1535" y="3110" h="59" w="48" name="21" trans=""/>
+                    <char x="1594" y="3110" h="59" w="48" name="22" trans=""/>
+                    <char x="1653" y="3110" h="59" w="48" name="23" trans=""/>
+                    <char x="1712" y="3110" h="59" w="48" name="24" trans=""/>
+                    <char x="1772" y="3110" h="59" w="47" name="25" trans=""/>
+                    <char x="1831" y="3110" h="59" w="47" name="26" trans=""/>
+                    <char x="1890" y="3110" h="59" w="47" name="27" trans=""/>
+                    <char x="1949" y="3110" h="59" w="47" name="28" trans=""/>
+                    <char x="2008" y="3110" h="59" w="47" name="29" trans=""/>
+                    <char x="2067" y="3110" h="59" w="47" name="30" trans=""/>
+                    <char x="2126" y="3110" h="59" w="47" name="31" trans=""/>
+                    <char x="2185" y="3110" h="59" w="47" name="32" trans=""/>
+                    <char x="2244" y="3110" h="59" w="47" name="33" trans=""/>
+                    <char x="2303" y="3110" h="59" w="47" name="34" trans=""/>
+                </field>
+                <field name="place_house" trans="Дом" type="0">
+                    <char x="236" y="3195" h="59" w="47" name="0" trans=""/>
+                    <char x="295" y="3195" h="59" w="48" name="1" trans=""/>
+                    <char x="354" y="3195" h="59" w="48" name="2" trans=""/>
+                    <char x="413" y="3195" h="59" w="48" name="3" trans=""/>
+                </field>
+                <field name="place_corps" trans="Корпус" type="0">
+                    <char x="591" y="3195" h="59" w="47" name="0" trans=""/>
+                    <char x="650" y="3195" h="59" w="47" name="1" trans=""/>
+                    <char x="709" y="3195" h="59" w="47" name="2" trans=""/>
+                    <char x="768" y="3195" h="59" w="47" name="3" trans=""/>
+                </field>
+                <field name="place_building" trans="Строение" type="0">
+                    <char x="1004" y="3195" h="59" w="47" name="0" trans=""/>
+                    <char x="1063" y="3195" h="59" w="47" name="1" trans=""/>
+                    <char x="1122" y="3195" h="59" w="47" name="2" trans=""/>
+                    <char x="1181" y="3195" h="59" w="47" name="3" trans=""/>
+                </field>
+                <field name="place_flat" trans="Квартира" type="0">
+                    <char x="1417" y="3195" h="59" w="47" name="0" trans=""/>
+                    <char x="1476" y="3195" h="59" w="48" name="1" trans=""/>
+                    <char x="1535" y="3195" h="59" w="48" name="2" trans=""/>
+                    <char x="1594" y="3195" h="59" w="48" name="3" trans=""/>
+                </field>
+            </group>
+            <field name="accepter_entry_term" trans="Срок пребывания до" type="1">
+                <char x="591" y="3281" h="59" w="47" name="0" trans=""/>
+                <char x="650" y="3281" h="59" w="47" name="1" trans=""/>
+                <char x="827" y="3281" h="59" w="47" name="2" trans=""/>
+                <char x="886" y="3281" h="59" w="47" name="3" trans=""/>
+                <char x="1004" y="3281" h="59" w="47" name="4" trans=""/>
+                <char x="1063" y="3281" h="59" w="47" name="5" trans=""/>
+                <char x="1122" y="3281" h="59" w="47" name="6" trans=""/>
+                <char x="1181" y="3281" h="59" w="47" name="7" trans=""/>
+            </field>
+        </group>
+    </document>
+    <document file="Original2.png" name="Задняя сторона">
+        <field name="place_region" trans="Область, край, республика, АО" type="0">
+            <char x="413" y="537" h="59" w="47" name="0" trans=""/>
+            <char x="473" y="537" h="59" w="47" name="1" trans=""/>
+            <char x="532" y="537" h="59" w="47" name="2" trans=""/>
+            <char x="591" y="537" h="59" w="47" name="3" trans=""/>
+            <char x="650" y="537" h="59" w="47" name="4" trans=""/>
+            <char x="709" y="537" h="59" w="47" name="5" trans=""/>
+            <char x="768" y="537" h="59" w="47" name="6" trans=""/>
+            <char x="827" y="537" h="59" w="47" name="7" trans=""/>
+            <char x="886" y="537" h="59" w="47" name="8" trans=""/>
+            <char x="945" y="537" h="59" w="47" name="9" trans=""/>
+            <char x="1004" y="537" h="59" w="48" name="10" trans=""/>
+            <char x="1063" y="537" h="59" w="48" name="11" trans=""/>
+            <char x="1122" y="537" h="59" w="48" name="12" trans=""/>
+            <char x="1181" y="537" h="59" w="48" name="13" trans=""/>
+            <char x="1240" y="537" h="59" w="48" name="14" trans=""/>
+            <char x="1300" y="537" h="59" w="47" name="15" trans=""/>
+            <char x="1359" y="537" h="59" w="47" name="16" trans=""/>
+            <char x="1418" y="537" h="59" w="47" name="17" trans=""/>
+            <char x="1477" y="537" h="59" w="47" name="18" trans=""/>
+            <char x="1536" y="537" h="59" w="47" name="19" trans=""/>
+            <char x="1595" y="537" h="59" w="47" name="20" trans=""/>
+            <char x="1654" y="537" h="59" w="47" name="21" trans=""/>
+            <char x="1713" y="537" h="59" w="47" name="22" trans=""/>
+            <char x="1772" y="537" h="59" w="47" name="23" trans=""/>
+            <char x="1831" y="537" h="59" w="47" name="24" trans=""/>
+            <char x="1890" y="537" h="59" w="47" name="25" trans=""/>
+            <char x="1949" y="537" h="59" w="47" name="26" trans=""/>
+            <char x="2008" y="537" h="59" w="47" name="27" trans=""/>
+            <char x="2067" y="537" h="59" w="47" name="28" trans=""/>
+            <char x="2126" y="537" h="59" w="47" name="29" trans=""/>
+            <char x="2185" y="537" h="59" w="48" name="30" trans=""/>
+            <char x="2244" y="537" h="59" w="48" name="31" trans=""/>
+            <char x="2303" y="537" h="59" w="48" name="32" trans=""/>
+        </field>
+        <field name="place_area" trans="Район" type="0">
+            <char x="295" y="620" h="59" w="47" name="0" trans=""/>
+            <char x="354" y="620" h="59" w="47" name="1" trans=""/>
+            <char x="413" y="620" h="59" w="48" name="2" trans=""/>
+            <char x="472" y="620" h="59" w="48" name="3" trans=""/>
+            <char x="531" y="620" h="59" w="48" name="4" trans=""/>
+            <char x="590" y="620" h="59" w="48" name="5" trans=""/>
+            <char x="649" y="620" h="59" w="48" name="6" trans=""/>
+            <char x="709" y="620" h="59" w="47" name="7" trans=""/>
+            <char x="768" y="620" h="59" w="47" name="8" trans=""/>
+            <char x="827" y="620" h="59" w="47" name="9" trans=""/>
+            <char x="886" y="620" h="59" w="47" name="10" trans=""/>
+            <char x="945" y="620" h="59" w="47" name="11" trans=""/>
+            <char x="1004" y="620" h="59" w="47" name="12" trans=""/>
+            <char x="1063" y="620" h="59" w="47" name="13" trans=""/>
+            <char x="1122" y="620" h="59" w="47" name="14" trans=""/>
+            <char x="1181" y="620" h="59" w="47" name="15" trans=""/>
+            <char x="1240" y="620" h="59" w="47" name="16" trans=""/>
+            <char x="1299" y="620" h="59" w="47" name="17" trans=""/>
+            <char x="1358" y="620" h="59" w="47" name="18" trans=""/>
+            <char x="1417" y="620" h="59" w="47" name="19" trans=""/>
+            <char x="1476" y="620" h="59" w="47" name="20" trans=""/>
+            <char x="1535" y="620" h="59" w="47" name="21" trans=""/>
+            <char x="1594" y="620" h="59" w="48" name="22" trans=""/>
+            <char x="1653" y="620" h="59" w="48" name="23" trans=""/>
+            <char x="1712" y="620" h="59" w="48" name="24" trans=""/>
+            <char x="1771" y="620" h="59" w="48" name="25" trans=""/>
+            <char x="1830" y="620" h="59" w="48" name="26" trans=""/>
+            <char x="1890" y="620" h="59" w="47" name="27" trans=""/>
+            <char x="1949" y="620" h="59" w="47" name="28" trans=""/>
+            <char x="2008" y="620" h="59" w="47" name="29" trans=""/>
+            <char x="2067" y="620" h="59" w="47" name="30" trans=""/>
+            <char x="2126" y="620" h="59" w="47" name="31" trans=""/>
+                <char x="2185" y="620" h="59" w="47" name="32" trans=""/>
+                <char x="2244" y="620" h="59" w="47" name="33" trans=""/>
+            <char x="2303" y="620" h="59" w="47" name="34" trans=""/>
+        </field>
+        <field name="place_city" trans="Город или другой населенный пункт" type="0">
+            <char x="413" y="703" h="59" w="48" name="0" trans=""/>
+            <char x="472" y="703" h="59" w="48" name="1" trans=""/>
+            <char x="531" y="703" h="59" w="48" name="2" trans=""/>
+            <char x="590" y="703" h="59" w="48" name="3" trans=""/>
+            <char x="649" y="703" h="59" w="48" name="4" trans=""/>
+            <char x="709" y="703" h="59" w="47" name="5" trans=""/>
+            <char x="768" y="703" h="59" w="47" name="6" trans=""/>
+            <char x="827" y="703" h="59" w="47" name="7" trans=""/>
+            <char x="886" y="703" h="59" w="47" name="8" trans=""/>
+            <char x="945" y="703" h="59" w="47" name="9" trans=""/>
+            <char x="1004" y="703" h="59" w="47" name="10" trans=""/>
+            <char x="1063" y="703" h="59" w="47" name="11" trans=""/>
+            <char x="1122" y="703" h="59" w="47" name="12" trans=""/>
+            <char x="1181" y="703" h="59" w="47" name="13" trans=""/>
+            <char x="1240" y="703" h="59" w="47" name="14" trans=""/>
+            <char x="1299" y="703" h="59" w="47" name="15" trans=""/>
+            <char x="1358" y="703" h="59" w="47" name="16" trans=""/>
+            <char x="1417" y="703" h="59" w="47" name="17" trans=""/>
+            <char x="1476" y="703" h="59" w="47" name="18" trans=""/>
+            <char x="1535" y="703" h="59" w="47" name="19" trans=""/>
+            <char x="1594" y="703" h="59" w="48" name="20" trans=""/>
+            <char x="1653" y="703" h="59" w="48" name="21" trans=""/>
+            <char x="1712" y="703" h="59" w="48" name="22" trans=""/>
+            <char x="1771" y="703" h="59" w="48" name="23" trans=""/>
+            <char x="1830" y="703" h="59" w="48" name="24" trans=""/>
+            <char x="1890" y="703" h="59" w="47" name="25" trans=""/>
+            <char x="1949" y="703" h="59" w="47" name="26" trans=""/>
+            <char x="2008" y="703" h="59" w="47" name="27" trans=""/>
+            <char x="2067" y="703" h="59" w="47" name="28" trans=""/>
+            <char x="2126" y="703" h="59" w="47" name="29" trans=""/>
+            <char x="2185" y="703" h="59" w="47" name="30" trans=""/>
+            <char x="2244" y="703" h="59" w="47" name="31" trans=""/>
+            <char x="2303" y="703" h="59" w="47" name="32" trans=""/>
+        </field>
+        <field name="place_street" trans="Улица" type="0">
+            <char x="295" y="785" h="59" w="47" name="0" trans=""/>
+            <char x="354" y="785" h="59" w="47" name="1" trans=""/>
+            <char x="413" y="785" h="59" w="48" name="2" trans=""/>
+            <char x="472" y="785" h="59" w="48" name="3" trans=""/>
+            <char x="531" y="785" h="59" w="48" name="4" trans=""/>
+            <char x="590" y="785" h="59" w="48" name="5" trans=""/>
+            <char x="649" y="785" h="59" w="48" name="6" trans=""/>
+            <char x="709" y="785" h="59" w="47" name="7" trans=""/>
+            <char x="768" y="785" h="59" w="47" name="8" trans=""/>
+            <char x="827" y="785" h="59" w="47" name="9" trans=""/>
+            <char x="886" y="785" h="59" w="47" name="10" trans=""/>
+            <char x="945" y="785" h="59" w="47" name="11" trans=""/>
+            <char x="1004" y="785" h="59" w="47" name="12" trans=""/>
+            <char x="1063" y="785" h="59" w="47" name="13" trans=""/>
+            <char x="1122" y="785" h="59" w="47" name="14" trans=""/>
+            <char x="1181" y="785" h="59" w="47" name="15" trans=""/>
+            <char x="1240" y="785" h="59" w="47" name="16" trans=""/>
+            <char x="1299" y="785" h="59" w="47" name="17" trans=""/>
+            <char x="1358" y="785" h="59" w="47" name="18" trans=""/>
+            <char x="1417" y="785" h="59" w="47" name="19" trans=""/>
+            <char x="1476" y="785" h="59" w="47" name="20" trans=""/>
+            <char x="1535" y="785" h="59" w="47" name="21" trans=""/>
+            <char x="1594" y="785" h="59" w="48" name="22" trans=""/>
+            <char x="1653" y="785" h="59" w="48" name="23" trans=""/>
+            <char x="1712" y="785" h="59" w="48" name="24" trans=""/>
+            <char x="1771" y="785" h="59" w="48" name="25" trans=""/>
+            <char x="1830" y="785" h="59" w="48" name="26" trans=""/>
+            <char x="1890" y="785" h="59" w="47" name="27" trans=""/>
+            <char x="1949" y="785" h="59" w="47" name="28" trans=""/>
+            <char x="2008" y="785" h="59" w="47" name="29" trans=""/>
+            <char x="2067" y="785" h="59" w="47" name="30" trans=""/>
+            <char x="2126" y="785" h="59" w="47" name="31" trans=""/>
+            <char x="2185" y="785" h="59" w="47" name="32" trans=""/>
+            <char x="2244" y="785" h="59" w="47" name="33" trans=""/>
+            <char x="2303" y="785" h="59" w="47" name="34" trans=""/>
+        </field>
+        <field name="place_house" trans="Дом" type="0">
+            <char x="236" y="870" h="59" w="47" name="0" trans=""/>
+            <char x="295" y="870" h="59" w="47" name="1" trans=""/>
+            <char x="354" y="870" h="59" w="47" name="2" trans=""/>
+            <char x="413" y="870" h="59" w="48" name="3" trans=""/>
+        </field>
+        <field name="place_corps" trans="Корпус" type="0">
+            <char x="590" y="870" h="59" w="48" name="0" trans=""/>
+            <char x="649" y="870" h="59" w="48" name="1" trans=""/>
+            <char x="709" y="870" h="59" w="47" name="2" trans=""/>
+            <char x="768" y="870" h="59" w="47" name="3" trans=""/>
+        </field>
+        <field name="place_building" trans="Строение" type="0">
+            <char x="1004" y="870" h="59" w="47" name="0" trans=""/>
+            <char x="1063" y="870" h="59" w="47" name="1" trans=""/>
+            <char x="1122" y="870" h="59" w="47" name="2" trans=""/>
+            <char x="1181" y="870" h="59" w="47" name="3" trans=""/>
+        </field>
+        <field name="place_flat" trans="Квартира" type="0">
+            <char x="1417" y="870" h="59" w="47" name="0" trans=""/>
+            <char x="1476" y="870" h="59" w="47" name="1" trans=""/>
+            <char x="1535" y="870" h="59" w="47" name="2" trans=""/>
+            <char x="1594" y="870" h="59" w="48" name="3" trans=""/>
+        </field>
+        <group trans="Сведения о месте пребывания">
+            <field name="place_phone" trans="Телефон" type="0">
+                <char x="1771" y="870" h="59" w="48" name="0" trans=""/>
+                <char x="1830" y="870" h="59" w="48" name="1" trans=""/>
+                <char x="1890" y="870" h="59" w="47" name="2" trans=""/>
+                <char x="1949" y="870" h="59" w="47" name="3" trans=""/>
+                <char x="2008" y="870" h="59" w="47" name="4" trans=""/>
+                <char x="2067" y="870" h="59" w="47" name="5" trans=""/>
+                <char x="2126" y="870" h="59" w="47" name="6" trans=""/>
+                <char x="2185" y="870" h="59" w="47" name="7" trans=""/>
+                <char x="2244" y="870" h="59" w="47" name="8" trans=""/>
+                <char x="2303" y="870" h="59" w="47" name="9" trans=""/>
+            </field>
+        </group>
+        <group trans="Сведения о принимающей стороне">
+            <field name="accepter_type" trans="Тип" type="2">
+                <char x="1949" y="976" h="59" w="47" name="o" trans="Организация"/>
+                <char x="2303" y="976" h="59" w="47" name="p" trans="Физ. лицо"/>
+            </field>
+            <field name="accepter_surname" trans="Фамилия" type="0">
+                <char x="295" y="1059" h="59" w="47" name="0" trans=""/>
+                <char x="354" y="1059" h="59" w="47" name="1" trans=""/>
+                <char x="413" y="1059" h="59" w="48" name="2" trans=""/>
+                <char x="472" y="1059" h="59" w="48" name="3" trans=""/>
+                <char x="531" y="1059" h="59" w="48" name="4" trans=""/>
+                <char x="590" y="1059" h="59" w="48" name="5" trans=""/>
+                <char x="649" y="1059" h="59" w="48" name="6" trans=""/>
+                <char x="709" y="1059" h="59" w="47" name="7" trans=""/>
+                <char x="768" y="1059" h="59" w="47" name="8" trans=""/>
+                <char x="827" y="1059" h="59" w="47" name="9" trans=""/>
+                <char x="886" y="1059" h="59" w="47" name="10" trans=""/>
+                <char x="945" y="1059" h="59" w="47" name="11" trans=""/>
+                <char x="1004" y="1059" h="59" w="47" name="12" trans=""/>
+                <char x="1063" y="1059" h="59" w="47" name="13" trans=""/>
+                <char x="1122" y="1059" h="59" w="47" name="14" trans=""/>
+                <char x="1181" y="1059" h="59" w="47" name="15" trans=""/>
+                <char x="1240" y="1059" h="59" w="47" name="16" trans=""/>
+                <char x="1299" y="1059" h="59" w="47" name="17" trans=""/>
+                <char x="1358" y="1059" h="59" w="47" name="18" trans=""/>
+            </field>
+            <field name="accepter_name" trans="Имя, отчество" type="0">
+                <char x="295" y="1142" h="59" w="47" name="0" trans=""/>
+                <char x="354" y="1142" h="59" w="47" name="1" trans=""/>
+                <char x="413" y="1142" h="59" w="48" name="2" trans=""/>
+                <char x="472" y="1142" h="59" w="48" name="3" trans=""/>
+                <char x="531" y="1142" h="59" w="48" name="4" trans=""/>
+                <char x="590" y="1142" h="59" w="48" name="5" trans=""/>
+                <char x="649" y="1142" h="59" w="48" name="6" trans=""/>
+                <char x="709" y="1142" h="59" w="47" name="7" trans=""/>
+                <char x="768" y="1142" h="59" w="47" name="8" trans=""/>
+                <char x="827" y="1142" h="59" w="47" name="9" trans=""/>
+                <char x="886" y="1142" h="59" w="47" name="10" trans=""/>
+                <char x="945" y="1142" h="59" w="47" name="11" trans=""/>
+                <char x="1004" y="1142" h="59" w="47" name="12" trans=""/>
+                <char x="1063" y="1142" h="59" w="47" name="13" trans=""/>
+                <char x="1122" y="1142" h="59" w="47" name="14" trans=""/>
+                <char x="1181" y="1142" h="59" w="47" name="15" trans=""/>
+                <char x="1240" y="1142" h="59" w="47" name="16" trans=""/>
+                <char x="1299" y="1142" h="59" w="47" name="17" trans=""/>
+                <char x="1358" y="1142" h="59" w="47" name="18" trans=""/>
+                <char x="1417" y="1142" h="59" w="47" name="19" trans=""/>
+                <char x="1476" y="1142" h="59" w="47" name="20" trans=""/>
+                <char x="1535" y="1142" h="59" w="47" name="21" trans=""/>
+                <char x="1594" y="1142" h="59" w="48" name="22" trans=""/>
+                <char x="1653" y="1142" h="59" w="48" name="23" trans=""/>
+                <char x="1712" y="1142" h="59" w="48" name="24" trans=""/>
+                <char x="1771" y="1142" h="59" w="48" name="25" trans=""/>
+                <char x="1830" y="1142" h="59" w="48" name="26" trans=""/>
+                <char x="1890" y="1142" h="59" w="47" name="27" trans=""/>
+                <char x="1949" y="1142" h="59" w="47" name="28" trans=""/>
+                <char x="2008" y="1142" h="59" w="47" name="29" trans=""/>
+                <char x="2067" y="1142" h="59" w="47" name="30" trans=""/>
+                <char x="2126" y="1142" h="59" w="47" name="31" trans=""/>
+                <char x="2185" y="1142" h="59" w="47" name="32" trans=""/>
+                <char x="2244" y="1142" h="59" w="47" name="33" trans=""/>
+                <char x="2303" y="1142" h="59" w="47" name="34" trans=""/>
+            </field>
+            <field name="accepter_birth_date" trans="Дата рождения" type="1">
+                <char x="1713" y="1059" h="59" w="47" name="0" trans=""/>
+                <char x="1772" y="1059" h="59" w="47" name="1" trans=""/>
+                <char x="1949" y="1059" h="59" w="47" name="2" trans=""/>
+                <char x="2008" y="1059" h="59" w="47" name="3" trans=""/>
+                <char x="2126" y="1059" h="59" w="47" name="4" trans=""/>
+                <char x="2185" y="1059" h="59" w="47" name="5" trans=""/>
+                <char x="2244" y="1059" h="59" w="47" name="6" trans=""/>
+                <char x="2303" y="1059" h="59" w="47" name="7" trans=""/>
+            </field>
+            <group trans="Документ">
+            <field name="accepter_document_type" trans="Вид" type="0">
+                <char x="768" y="1224" h="60" w="47" name="0" trans=""/>
+                <char x="827" y="1224" h="60" w="47" name="1" trans=""/>
+                <char x="886" y="1224" h="60" w="47" name="2" trans=""/>
+                <char x="945" y="1224" h="60" w="47" name="3" trans=""/>
+                <char x="1004" y="1224" h="60" w="47" name="4" trans=""/>
+                <char x="1063" y="1224" h="60" w="47" name="5" trans=""/>
+                <char x="1122" y="1224" h="60" w="47" name="6" trans=""/>
+                <char x="1181" y="1224" h="60" w="47" name="7" trans=""/>
+                <char x="1240" y="1224" h="60" w="47" name="8" trans=""/>
+                <char x="1299" y="1224" h="60" w="47" name="9" trans=""/>
+                <char x="1358" y="1224" h="60" w="47" name="10" trans=""/>
+            </field>
+            <field name="accepter_document_series" trans="Серия" type="0">
+                <char x="1535" y="1224" h="60" w="47" name="0" trans=""/>
+                <char x="1594" y="1224" h="60" w="48" name="1" trans=""/>
+                <char x="1653" y="1224" h="60" w="48" name="2" trans=""/>
+                <char x="1712" y="1224" h="60" w="48" name="3" trans=""/>
+            </field>
+            <field name="accepter_document_number" trans="№" type="0">
+                <char x="1830" y="1224" h="60" w="48" name="0" trans=""/>
+                <char x="1890" y="1224" h="60" w="47" name="1" trans=""/>
+                <char x="1949" y="1224" h="60" w="47" name="2" trans=""/>
+                <char x="2008" y="1224" h="60" w="47" name="3" trans=""/>
+                <char x="2067" y="1224" h="60" w="47" name="4" trans=""/>
+                <char x="2126" y="1224" h="60" w="47" name="5" trans=""/>
+                <char x="2185" y="1224" h="60" w="47" name="6" trans=""/>
+                <char x="2244" y="1224" h="60" w="47" name="7" trans=""/>
+                <char x="2303" y="1224" h="60" w="47" name="8" trans=""/>
+            </field>
+            <field name="accepter_document_date" trans="Дата выдачи" type="1">
+                <char x="353" y="1308" h="59" w="48" name="0" trans=""/>
+                <char x="412" y="1308" h="59" w="48" name="1" trans=""/>
+                <char x="590" y="1308" h="59" w="47" name="2" trans=""/>
+                <char x="649" y="1308" h="59" w="47" name="3" trans=""/>
+                <char x="767" y="1308" h="59" w="47" name="4" trans=""/>
+                <char x="826" y="1308" h="59" w="47" name="5" trans=""/>
+                <char x="885" y="1308" h="59" w="47" name="6" trans=""/>
+                <char x="944" y="1308" h="59" w="47" name="7" trans=""/>
+            </field>
+            <field name="accepter_document_term" trans="Срок дейстчия" type="1">
+                <char x="1298" y="1308" h="59" w="47" name="0" trans=""/>
+                <char x="1357" y="1308" h="59" w="47" name="1" trans=""/>
+                <char x="1534" y="1308" h="59" w="47" name="2" trans=""/>
+                <char x="1593" y="1308" h="59" w="47" name="3" trans=""/>
+                <char x="1711" y="1308" h="59" w="47" name="4" trans=""/>
+                <char x="1770" y="1308" h="59" w="47" name="5" trans=""/>
+                <char x="1830" y="1308" h="59" w="47" name="6" trans=""/>
+                <char x="1889" y="1308" h="59" w="47" name="7" trans=""/>
+            </field>
+            </group>
+        </group>
+        <group trans="Место прибывания">
+            <field name="accepter_region" trans="Область, край, республика, АО" type="0">
+                <char x="413" y="1390" h="59" w="47" name="0" trans=""/>
+                <char x="473" y="1390" h="59" w="47" name="1" trans=""/>
+                <char x="532" y="1390" h="59" w="47" name="2" trans=""/>
+                <char x="591" y="1390" h="59" w="47" name="3" trans=""/>
+                <char x="650" y="1390" h="59" w="47" name="4" trans=""/>
+                <char x="709" y="1390" h="59" w="47" name="5" trans=""/>
+                <char x="768" y="1390" h="59" w="47" name="6" trans=""/>
+                <char x="827" y="1390" h="59" w="47" name="7" trans=""/>
+                <char x="886" y="1390" h="59" w="47" name="8" trans=""/>
+                <char x="945" y="1390" h="59" w="47" name="9" trans=""/>
+                <char x="1004" y="1390" h="59" w="48" name="10" trans=""/>
+                <char x="1063" y="1390" h="59" w="48" name="11" trans=""/>
+                <char x="1122" y="1390" h="59" w="48" name="12" trans=""/>
+                <char x="1181" y="1390" h="59" w="48" name="13" trans=""/>
+                <char x="1240" y="1390" h="59" w="48" name="14" trans=""/>
+                <char x="1300" y="1390" h="59" w="47" name="15" trans=""/>
+                <char x="1359" y="1390" h="59" w="47" name="16" trans=""/>
+                <char x="1418" y="1390" h="59" w="47" name="17" trans=""/>
+                <char x="1477" y="1390" h="59" w="47" name="18" trans=""/>
+                <char x="1536" y="1390" h="59" w="47" name="19" trans=""/>
+                <char x="1595" y="1390" h="59" w="47" name="20" trans=""/>
+                <char x="1654" y="1390" h="59" w="47" name="21" trans=""/>
+                <char x="1713" y="1390" h="59" w="47" name="22" trans=""/>
+                <char x="1772" y="1390" h="59" w="47" name="23" trans=""/>
+                <char x="1831" y="1390" h="59" w="47" name="24" trans=""/>
+                <char x="1890" y="1390" h="59" w="47" name="25" trans=""/>
+                <char x="1949" y="1390" h="59" w="47" name="26" trans=""/>
+                <char x="2008" y="1390" h="59" w="47" name="27" trans=""/>
+                <char x="2067" y="1390" h="59" w="47" name="28" trans=""/>
+                <char x="2126" y="1390" h="59" w="47" name="29" trans=""/>
+                <char x="2185" y="1390" h="59" w="48" name="30" trans=""/>
+                <char x="2244" y="1390" h="59" w="48" name="31" trans=""/>
+                <char x="2303" y="1390" h="59" w="48" name="32" trans=""/>
+            </field>
+            <field name="accepter_area" trans="Район" type="0">
+                <char x="295" y="1472" h="60" w="47" name="0" trans=""/>
+                <char x="354" y="1472" h="60" w="47" name="1" trans=""/>
+                <char x="413" y="1472" h="60" w="48" name="2" trans=""/>
+                <char x="472" y="1472" h="60" w="48" name="3" trans=""/>
+                <char x="531" y="1472" h="60" w="48" name="4" trans=""/>
+                <char x="590" y="1472" h="60" w="48" name="5" trans=""/>
+                <char x="649" y="1472" h="60" w="48" name="6" trans=""/>
+                <char x="709" y="1472" h="60" w="47" name="7" trans=""/>
+                <char x="768" y="1472" h="60" w="47" name="8" trans=""/>
+                <char x="827" y="1472" h="60" w="47" name="9" trans=""/>
+                <char x="886" y="1472" h="60" w="47" name="10" trans=""/>
+                <char x="945" y="1472" h="60" w="47" name="11" trans=""/>
+                <char x="1004" y="1472" h="60" w="47" name="12" trans=""/>
+                <char x="1063" y="1472" h="60" w="47" name="13" trans=""/>
+                <char x="1122" y="1472" h="60" w="47" name="14" trans=""/>
+                <char x="1181" y="1472" h="60" w="47" name="15" trans=""/>
+                <char x="1240" y="1472" h="60" w="47" name="16" trans=""/>
+                <char x="1299" y="1472" h="60" w="47" name="17" trans=""/>
+                <char x="1358" y="1472" h="60" w="47" name="18" trans=""/>
+                <char x="1417" y="1472" h="60" w="47" name="19" trans=""/>
+                <char x="1476" y="1472" h="60" w="47" name="20" trans=""/>
+                <char x="1535" y="1472" h="60" w="47" name="21" trans=""/>
+                <char x="1594" y="1472" h="60" w="48" name="22" trans=""/>
+                <char x="1653" y="1472" h="60" w="48" name="22.1" trans=""/>
+                <char x="1712" y="1472" h="60" w="48" name="23" trans=""/>
+                <char x="1771" y="1472" h="60" w="48" name="24" trans=""/>
+                <char x="1830" y="1472" h="60" w="48" name="25" trans=""/>
+                <char x="1890" y="1472" h="60" w="47" name="26" trans=""/>
+                <char x="1949" y="1472" h="60" w="47" name="27" trans=""/>
+                <char x="2008" y="1472" h="60" w="47" name="28" trans=""/>
+                <char x="2067" y="1472" h="60" w="47" name="29" trans=""/>
+                <char x="2126" y="1472" h="60" w="47" name="30" trans=""/>
+                <char x="2185" y="1472" h="60" w="47" name="31" trans=""/>
+                <char x="2244" y="1472" h="60" w="47" name="32" trans=""/>
+                <char x="2303" y="1472" h="60" w="47" name="33" trans=""/>
+            </field>
+            <field name="accepter_city" trans="Город" type="0">
+                <char x="413" y="1555" h="59" w="48" name="0" trans=""/>
+                <char x="472" y="1555" h="59" w="48" name="1" trans=""/>
+                <char x="531" y="1555" h="59" w="48" name="2" trans=""/>
+                <char x="590" y="1555" h="59" w="48" name="3" trans=""/>
+                <char x="649" y="1555" h="59" w="48" name="4" trans=""/>
+                <char x="709" y="1555" h="59" w="47" name="5" trans=""/>
+                <char x="768" y="1555" h="59" w="47" name="6" trans=""/>
+                <char x="827" y="1555" h="59" w="47" name="7" trans=""/>
+                <char x="886" y="1555" h="59" w="47" name="8" trans=""/>
+                <char x="945" y="1555" h="59" w="47" name="9" trans=""/>
+                <char x="1004" y="1555" h="59" w="47" name="10" trans=""/>
+                <char x="1063" y="1555" h="59" w="47" name="11" trans=""/>
+                <char x="1122" y="1555" h="59" w="47" name="12" trans=""/>
+                <char x="1181" y="1555" h="59" w="47" name="13" trans=""/>
+                <char x="1240" y="1555" h="59" w="47" name="14" trans=""/>
+                <char x="1299" y="1555" h="59" w="47" name="15" trans=""/>
+                <char x="1358" y="1555" h="59" w="47" name="16" trans=""/>
+                <char x="1417" y="1555" h="59" w="47" name="17" trans=""/>
+                <char x="1476" y="1555" h="59" w="47" name="18" trans=""/>
+                <char x="1535" y="1555" h="59" w="47" name="19" trans=""/>
+                <char x="1594" y="1555" h="59" w="48" name="20" trans=""/>
+                <char x="1653" y="1555" h="59" w="48" name="21" trans=""/>
+                <char x="1712" y="1555" h="59" w="48" name="22" trans=""/>
+                <char x="1771" y="1555" h="59" w="48" name="23" trans=""/>
+                <char x="1830" y="1555" h="59" w="48" name="24" trans=""/>
+                <char x="1890" y="1555" h="59" w="47" name="25" trans=""/>
+                <char x="1949" y="1555" h="59" w="47" name="26" trans=""/>
+                <char x="2008" y="1555" h="59" w="47" name="27" trans=""/>
+                <char x="2067" y="1555" h="59" w="47" name="28" trans=""/>
+                <char x="2126" y="1555" h="59" w="47" name="29" trans=""/>
+                <char x="2185" y="1555" h="59" w="47" name="30" trans=""/>
+                <char x="2244" y="1555" h="59" w="47" name="31" trans=""/>
+                <char x="2303" y="1555" h="59" w="47" name="32" trans=""/>
+            </field>
+            <field name="accepter_street" trans="Улица" type="0">
+                <char x="295" y="1632" h="59" w="47" name="0" trans=""/>
+                <char x="354" y="1632" h="59" w="47" name="1" trans=""/>
+                <char x="413" y="1632" h="59" w="48" name="2" trans=""/>
+                <char x="472" y="1632" h="59" w="48" name="3" trans=""/>
+                <char x="531" y="1632" h="59" w="48" name="4" trans=""/>
+                <char x="590" y="1632" h="59" w="48" name="5" trans=""/>
+                <char x="649" y="1632" h="59" w="48" name="6" trans=""/>
+                <char x="709" y="1632" h="59" w="47" name="7" trans=""/>
+                <char x="768" y="1632" h="59" w="47" name="8" trans=""/>
+                <char x="827" y="1632" h="59" w="47" name="9" trans=""/>
+                <char x="886" y="1632" h="59" w="47" name="10" trans=""/>
+                <char x="945" y="1632" h="59" w="47" name="11" trans=""/>
+                <char x="1004" y="1632" h="59" w="47" name="12" trans=""/>
+                <char x="1063" y="1632" h="59" w="47" name="13" trans=""/>
+                <char x="1122" y="1632" h="59" w="47" name="14" trans=""/>
+                <char x="1181" y="1632" h="59" w="47" name="15" trans=""/>
+                <char x="1240" y="1632" h="59" w="47" name="16" trans=""/>
+                <char x="1299" y="1632" h="59" w="47" name="17" trans=""/>
+                <char x="1358" y="1632" h="59" w="47" name="18" trans=""/>
+                <char x="1417" y="1632" h="59" w="47" name="19" trans=""/>
+                <char x="1476" y="1632" h="59" w="47" name="20" trans=""/>
+                <char x="1535" y="1632" h="59" w="47" name="21" trans=""/>
+                <char x="1594" y="1632" h="59" w="48" name="22" trans=""/>
+                <char x="1653" y="1632" h="59" w="48" name="23" trans=""/>
+                <char x="1712" y="1632" h="59" w="48" name="24" trans=""/>
+                <char x="1771" y="1632" h="59" w="48" name="25" trans=""/>
+                <char x="1830" y="1632" h="59" w="48" name="26" trans=""/>
+                <char x="1890" y="1632" h="59" w="47" name="27" trans=""/>
+                <char x="1949" y="1632" h="59" w="47" name="28" trans=""/>
+                <char x="2008" y="1632" h="59" w="47" name="29" trans=""/>
+                <char x="2067" y="1632" h="59" w="47" name="30" trans=""/>
+                <char x="2126" y="1632" h="59" w="47" name="31" trans=""/>
+                <char x="2185" y="1632" h="59" w="47" name="32" trans=""/>
+                <char x="2244" y="1632" h="59" w="47" name="33" trans=""/>
+                <char x="2303" y="1632" h="59" w="47" name="34" trans=""/>
+            </field>
+            <field name="accepter_house" trans="Дом" type="0">
+                <char x="236" y="1718" h="59" w="47" name="0" trans=""/>
+                <char x="295" y="1718" h="59" w="47" name="1" trans=""/>
+                <char x="354" y="1718" h="59" w="47" name="2" trans=""/>
+                <char x="413" y="1718" h="59" w="48" name="3" trans=""/>
+                <char x="413" y="1718" h="59" w="48" name="4" trans=""/>
+            </field>
+            <field name="accepter_corps" trans="Корпус" type="0">
+                <char x="590" y="1718" h="59" w="48" name="0" trans=""/>
+                <char x="649" y="1718" h="59" w="48" name="1" trans=""/>
+                <char x="709" y="1718" h="59" w="47" name="2" trans=""/>
+                <char x="768" y="1718" h="59" w="47" name="3" trans=""/>
+            </field>
+            <field name="accepter_building" trans="Строение" type="0">
+                <char x="1004" y="1718" h="59" w="47" name="0" trans=""/>
+                <char x="1063" y="1718" h="59" w="47" name="1" trans=""/>
+                <char x="1122" y="1718" h="59" w="47" name="2" trans=""/>
+                <char x="1181" y="1718" h="59" w="47" name="3" trans=""/>
+            </field>
+            <field name="accepter_flat" trans="Квартира" type="0">
+                <char x="1417" y="1718" h="59" w="47" name="0" trans=""/>
+                <char x="1476" y="1718" h="59" w="47" name="1" trans=""/>
+                <char x="1535" y="1718" h="59" w="47" name="2" trans=""/>
+                <char x="1594" y="1718" h="59" w="48" name="3" trans=""/>
+            </field>
+            <field name="accepter_phone" trans="Телефон" type="0">
+                <char x="1771" y="1718" h="59" w="48" name="0" trans=""/>
+                <char x="1830" y="1718" h="59" w="48" name="1" trans=""/>
+                <char x="1890" y="1718" h="59" w="47" name="2" trans=""/>
+                <char x="1949" y="1718" h="59" w="47" name="3" trans=""/>
+                <char x="2008" y="1718" h="59" w="47" name="4" trans=""/>
+                <char x="2067" y="1718" h="59" w="47" name="5" trans=""/>
+                <char x="2126" y="1718" h="59" w="47" name="6" trans=""/>
+                <char x="2185" y="1718" h="59" w="47" name="7" trans=""/>
+                <char x="2244" y="1718" h="59" w="47" name="8" trans=""/>
+                <char x="2303" y="1718" h="59" w="47" name="9" trans=""/>
+            </field>
+        </group>
+        <group trans="Организация">
+            <field name="accepter_legal_name" trans="Наименование организации" type="0">
+                <char x="355" y="1801" h="59" w="47" name="0" trans=""/>
+                <char x="413" y="1801" h="59" w="47" name="1" trans=""/>
+                <char x="472" y="1801" h="59" w="47" name="2" trans=""/>
+                <char x="531" y="1801" h="59" w="47" name="3" trans=""/>
+                <char x="590" y="1801" h="59" w="47" name="4" trans=""/>
+                <char x="649" y="1801" h="59" w="47" name="5" trans=""/>
+                <char x="708" y="1801" h="59" w="47" name="6" trans=""/>
+                <char x="767" y="1801" h="59" w="47" name="7" trans=""/>
+                <char x="826" y="1801" h="59" w="47" name="8" trans=""/>
+                <char x="885" y="1801" h="59" w="47" name="9" trans=""/>
+                <char x="944" y="1801" h="59" w="48" name="10" trans=""/>
+                <char x="1003" y="1801" h="59" w="48" name="11" trans=""/>
+                <char x="1062" y="1801" h="59" w="48" name="12" trans=""/>
+                <char x="1121" y="1801" h="59" w="48" name="13" trans=""/>
+                <char x="1180" y="1801" h="59" w="48" name="14" trans=""/>
+                <char x="1240" y="1801" h="59" w="47" name="15" trans=""/>
+                <char x="1299" y="1801" h="59" w="47" name="16" trans=""/>
+                <char x="1358" y="1801" h="59" w="47" name="17" trans=""/>
+                <char x="1417" y="1801" h="59" w="47" name="18" trans=""/>
+                <char x="1476" y="1801" h="59" w="47" name="19" trans=""/>
+                <char x="1535" y="1801" h="59" w="47" name="20" trans=""/>
+                <char x="1594" y="1801" h="59" w="47" name="21" trans=""/>
+                <char x="1653" y="1801" h="59" w="47" name="22" trans=""/>
+                <char x="1712" y="1801" h="59" w="47" name="23" trans=""/>
+                <char x="118" y="1884" h="59" w="47" name="24" trans=""/>
+                <char x="177" y="1884" h="59" w="47" name="25" trans=""/>
+                <char x="236" y="1884" h="59" w="47" name="26" trans=""/>
+                <char x="295" y="1883" h="59" w="48" name="27" trans=""/>
+                <char x="354" y="1884" h="59" w="48" name="28" trans=""/>
+                <char x="413" y="1884" h="59" w="48" name="29" trans=""/>
+                <char x="472" y="1884" h="59" w="48" name="30" trans=""/>
+                <char x="532" y="1884" h="59" w="47" name="31" trans=""/>
+                <char x="591" y="1884" h="59" w="47" name="32" trans=""/>
+                <char x="650" y="1884" h="59" w="47" name="33" trans=""/>
+                <char x="709" y="1884" h="59" w="47" name="34" trans=""/>
+                <char x="768" y="1884" h="59" w="47" name="35" trans=""/>
+                <char x="827" y="1884" h="59" w="47" name="36" trans=""/>
+                <char x="886" y="1884" h="59" w="47" name="37" trans=""/>
+                <char x="945" y="1884" h="59" w="47" name="38" trans=""/>
+                <char x="1004" y="1884" h="59" w="47" name="39" trans=""/>
+                <char x="1063" y="1884" h="59" w="47" name="40" trans=""/>
+                <char x="1122" y="1884" h="59" w="47" name="41" trans=""/>
+                <char x="1181" y="1884" h="59" w="47" name="42" trans=""/>
+                <char x="1240" y="1884" h="59" w="47" name="43" trans=""/>
+                <char x="1299" y="1884" h="59" w="47" name="44" trans=""/>
+                <char x="1358" y="1884" h="59" w="47" name="45" trans=""/>
+                <char x="1417" y="1884" h="59" w="47" name="46" trans=""/>
+                <char x="1476" y="1884" h="59" w="48" name="47" trans=""/>
+                <char x="1535" y="1884" h="59" w="48" name="48" trans=""/>
+                <char x="1594" y="1884" h="59" w="48" name="49" trans=""/>
+                <char x="1653" y="1884" h="59" w="48" name="50" trans=""/>
+                <char x="1713" y="1884" h="59" w="47" name="51" trans=""/>
+            </field>
+            <field name="accepter_legal_fact_address" trans="Факт. адрес" type="0">
+                <char x="354" y="1966" h="59" w="47" name="0" trans=""/>
+                <char x="413" y="1966" h="59" w="48" name="1" trans=""/>
+                <char x="472" y="1966" h="59" w="48" name="2" trans=""/>
+                <char x="531" y="1966" h="59" w="48" name="3" trans=""/>
+                <char x="590" y="1966" h="59" w="48" name="4" trans=""/>
+                <char x="649" y="1966" h="59" w="48" name="5" trans=""/>
+                <char x="709" y="1966" h="59" w="47" name="6" trans=""/>
+                <char x="768" y="1966" h="59" w="47" name="7" trans=""/>
+                <char x="827" y="1966" h="59" w="47" name="8" trans=""/>
+                <char x="886" y="1966" h="59" w="47" name="9" trans=""/>
+                <char x="945" y="1966" h="59" w="47" name="10" trans=""/>
+                <char x="1004" y="1966" h="59" w="47" name="11" trans=""/>
+                <char x="1063" y="1966" h="59" w="47" name="12" trans=""/>
+                <char x="1122" y="1966" h="59" w="47" name="13" trans=""/>
+                <char x="1181" y="1966" h="59" w="47" name="14" trans=""/>
+                <char x="1240" y="1966" h="59" w="47" name="15" trans=""/>
+                <char x="1299" y="1966" h="59" w="47" name="16" trans=""/>
+                <char x="1358" y="1966" h="59" w="47" name="17" trans=""/>
+                <char x="1417" y="1966" h="59" w="47" name="18" trans=""/>
+                <char x="1476" y="1966" h="59" w="47" name="19" trans=""/>
+                <char x="1535" y="1966" h="59" w="47" name="20" trans=""/>
+                <char x="1594" y="1966" h="59" w="48" name="21" trans=""/>
+                <char x="1653" y="1966" h="59" w="48" name="22" trans=""/>
+                <char x="1712" y="1966" h="59" w="48" name="23" trans=""/>
+                <char x="118" y="2049" h="59" w="47" name="24" trans=""/>
+                <char x="177" y="2049" h="59" w="47" name="25" trans=""/>
+                <char x="236" y="2049" h="59" w="47" name="26" trans=""/>
+                <char x="295" y="2049" h="59" w="47" name="27" trans=""/>
+                <char x="354" y="2049" h="59" w="47" name="28" trans=""/>
+                <char x="413" y="2049" h="59" w="48" name="29" trans=""/>
+                <char x="472" y="2049" h="59" w="48" name="30" trans=""/>
+                <char x="531" y="2049" h="59" w="48" name="31" trans=""/>
+                <char x="590" y="2049" h="59" w="48" name="32" trans=""/>
+                <char x="649" y="2049" h="59" w="48" name="33" trans=""/>
+                <char x="709" y="2049" h="59" w="47" name="34" trans=""/>
+                <char x="768" y="2049" h="59" w="47" name="35" trans=""/>
+                <char x="827" y="2049" h="59" w="47" name="36" trans=""/>
+                <char x="886" y="2049" h="59" w="47" name="37" trans=""/>
+                <char x="945" y="2049" h="59" w="47" name="38" trans=""/>
+                <char x="1004" y="2049" h="59" w="47" name="39" trans=""/>
+                <char x="1063" y="2049" h="59" w="47" name="40" trans=""/>
+                <char x="1122" y="2049" h="59" w="47" name="41" trans=""/>
+                <char x="1181" y="2049" h="59" w="47" name="42" trans=""/>
+                <char x="1240" y="2049" h="59" w="47" name="43" trans=""/>
+                <char x="1299" y="2049" h="59" w="47" name="44" trans=""/>
+                <char x="1358" y="2049" h="59" w="47" name="45" trans=""/>
+                <char x="1417" y="2049" h="59" w="47" name="46" trans=""/>
+                <char x="1476" y="2049" h="59" w="47" name="47" trans=""/>
+                <char x="1535" y="2049" h="59" w="47" name="48" trans=""/>
+                <char x="1594" y="2049" h="59" w="48" name="49" trans=""/>
+                <char x="1653" y="2049" h="59" w="48" name="50" trans=""/>
+                <char x="1712" y="2049" h="59" w="48" name="51" trans=""/>
+            </field>
+            <field name="accepter_legal_INN" trans="ИНН" type="0">
+                <char x="236" y="2131" h="59" w="47" name="0" trans=""/>
+                <char x="295" y="2131" h="59" w="47" name="1" trans=""/>
+                <char x="354" y="2131" h="59" w="47" name="2" trans=""/>
+                <char x="413" y="2131" h="59" w="48" name="3" trans=""/>
+                <char x="472" y="2131" h="59" w="48" name="4" trans=""/>
+                <char x="531" y="2131" h="59" w="48" name="5" trans=""/>
+                <char x="590" y="2131" h="59" w="48" name="6" trans=""/>
+                <char x="649" y="2131" h="59" w="48" name="7" trans=""/>
+                <char x="709" y="2131" h="59" w="47" name="8" trans=""/>
+                <char x="768" y="2131" h="59" w="47" name="9" trans=""/>
+                <char x="827" y="2131" h="59" w="47" name="10" trans=""/>
+                <char x="886" y="2131" h="59" w="47" name="11" trans=""/>
+            </field>
+        </group>
+        <field name="accepter_surname" trans="Фамилия" type="0">
+            <char x="295" y="2551" h="59" w="47" name="0" trans=""/>
+            <char x="354" y="2551" h="59" w="47" name="1" trans=""/>
+            <char x="413" y="2551" h="59" w="48" name="2" trans=""/>
+            <char x="472" y="2551" h="59" w="48" name="3" trans=""/>
+            <char x="531" y="2551" h="59" w="48" name="4" trans=""/>
+            <char x="590" y="2551" h="59" w="48" name="5" trans=""/>
+            <char x="649" y="2551" h="59" w="48" name="6" trans=""/>
+            <char x="709" y="2551" h="59" w="47" name="7" trans=""/>
+            <char x="768" y="2551" h="59" w="47" name="8" trans=""/>
+            <char x="827" y="2551" h="59" w="47" name="9" trans=""/>
+            <char x="886" y="2551" h="59" w="47" name="10" trans=""/>
+            <char x="945" y="2551" h="59" w="47" name="11" trans=""/>
+            <char x="1004" y="2551" h="59" w="47" name="12" trans=""/>
+            <char x="1063" y="2551" h="59" w="47" name="12.1" trans=""/>
+            <char x="1122" y="2551" h="59" w="47" name="13" trans=""/>
+            <char x="1181" y="2551" h="59" w="47" name="14" trans=""/>
+            <char x="1240" y="2551" h="59" w="47" name="15" trans=""/>
+            <char x="1299" y="2551" h="59" w="47" name="16" trans=""/>
+            <char x="1358" y="2551" h="59" w="47" name="17" trans=""/>
+            <char x="1417" y="2551" h="59" w="47" name="18" trans=""/>
+            <char x="1476" y="2551" h="59" w="47" name="19" trans=""/>
+            <char x="1535" y="2551" h="59" w="47" name="20" trans=""/>
+            <char x="1594" y="2551" h="59" w="48" name="21" trans=""/>
+            <char x="1653" y="2551" h="59" w="48" name="22" trans=""/>
+            <char x="1712" y="2551" h="59" w="48" name="23" trans=""/>
+            <char x="1771" y="2551" h="59" w="48" name="24" trans=""/>
+            <char x="1830" y="2551" h="59" w="48" name="25" trans=""/>
+            <char x="1890" y="2551" h="59" w="47" name="26" trans=""/>
+            <char x="1949" y="2551" h="59" w="47" name="27" trans=""/>
+            <char x="2008" y="2551" h="59" w="47" name="28" trans=""/>
+            <char x="2067" y="2551" h="59" w="47" name="29" trans=""/>
+            <char x="2126" y="2551" h="59" w="47" name="30" trans=""/>
+            <char x="2185" y="2551" h="59" w="47" name="31" trans=""/>
+            <char x="2244" y="2551" h="59" w="47" name="32" trans=""/>
+            <char x="2303" y="2551" h="59" w="47" name="33" trans=""/>
+        </field>
+        <field name="accepter_name" trans="Имя, отчество" type="0">
+            <char x="295" y="2633" h="59" w="47" name="0" trans=""/>
+            <char x="354" y="2633" h="59" w="47" name="1" trans=""/>
+            <char x="413" y="2633" h="59" w="47" name="2" trans=""/>
+            <char x="472" y="2633" h="59" w="47" name="3" trans=""/>
+            <char x="531" y="2633" h="59" w="47" name="4" trans=""/>
+            <char x="590" y="2633" h="59" w="47" name="5" trans=""/>
+            <char x="649" y="2633" h="59" w="47" name="6" trans=""/>
+            <char x="708" y="2633" h="59" w="47" name="7" trans=""/>
+            <char x="768" y="2633" h="59" w="47" name="8" trans=""/>
+            <char x="827" y="2633" h="59" w="47" name="9" trans=""/>
+            <char x="886" y="2633" h="59" w="47" name="10" trans=""/>
+            <char x="945" y="2633" h="59" w="47" name="11" trans=""/>
+            <char x="1004" y="2633" h="59" w="47" name="12" trans=""/>
+            <char x="1063" y="2633" h="59" w="47" name="13" trans=""/>
+            <char x="1122" y="2633" h="59" w="47" name="14" trans=""/>
+            <char x="1181" y="2633" h="59" w="47" name="15" trans=""/>
+            <char x="1240" y="2633" h="59" w="47" name="16" trans=""/>
+            <char x="1299" y="2633" h="59" w="47" name="17" trans=""/>
+            <char x="1358" y="2633" h="59" w="47" name="18" trans=""/>
+            <char x="1417" y="2633" h="59" w="47" name="19" trans=""/>
+            <char x="1476" y="2633" h="59" w="47" name="20" trans=""/>
+            <char x="1535" y="2633" h="59" w="47" name="21" trans=""/>
+            <char x="1594" y="2633" h="59" w="47" name="22" trans=""/>
+            <char x="1653" y="2633" h="59" w="47" name="23" trans=""/>
+            <char x="1712" y="2633" h="59" w="47" name="24" trans=""/>
+            <char x="1771" y="2633" h="59" w="47" name="25" trans=""/>
+            <char x="1830" y="2633" h="59" w="47" name="26" trans=""/>
+            <char x="1889" y="2633" h="59" w="47" name="27" trans=""/>
+            <char x="1949" y="2633" h="59" w="47" name="28" trans=""/>
+            <char x="2008" y="2633" h="59" w="47" name="29" trans=""/>
+            <char x="2067" y="2633" h="59" w="47" name="30" trans=""/>
+            <char x="2126" y="2633" h="59" w="47" name="31" trans=""/>
+            <char x="2185" y="2633" h="59" w="47" name="32" trans=""/>
+            <char x="2244" y="2633" h="59" w="47" name="33" trans=""/>
+            <char x="2303" y="2633" h="59" w="47" name="34" trans=""/>
+        </field>
+    </document>
+</root>
+

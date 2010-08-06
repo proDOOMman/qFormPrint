@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Migrant
+Comment=Formprint analog
+Encoding=UTF-8
+Icon=/usr/share/icons/application-default-icon.png
+Type=Application
+Exec=/usr/bin/Migrant
+Categories=Office;Qt;
